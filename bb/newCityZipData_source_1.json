@@ -1,0 +1,7338 @@
+[
+  {
+    "city": "stanley",
+    "zip_code": "58784"
+  },
+  {
+    "city": "fromberg",
+    "zip_code": "59029"
+  },
+  {
+    "city": "livingston",
+    "zip_code": "59047"
+  },
+  {
+    "city": "roundup",
+    "zip_code": "59072"
+  },
+  {
+    "city": "billings",
+    "zip_code": "59106"
+  },
+  {
+    "city": "peerless",
+    "zip_code": "59253"
+  },
+  {
+    "city": "great falls",
+    "zip_code": "59404"
+  },
+  {
+    "city": "black eagle",
+    "zip_code": "59414"
+  },
+  {
+    "city": "highwood",
+    "zip_code": "59450"
+  },
+  {
+    "city": "sunburst",
+    "zip_code": "59482"
+  },
+  {
+    "city": "ringling",
+    "zip_code": "59642"
+  },
+  {
+    "city": "twin bridges",
+    "zip_code": "59754"
+  },
+  {
+    "city": "glencoe",
+    "zip_code": "60022"
+  },
+  {
+    "city": "vernon hills",
+    "zip_code": "60061"
+  },
+  {
+    "city": "prospect heights",
+    "zip_code": "60070"
+  },
+  {
+    "city": "carpentersville",
+    "zip_code": "60110"
+  },
+  {
+    "city": "creston",
+    "zip_code": "60113"
+  },
+  {
+    "city": "elgin",
+    "zip_code": "60124"
+  },
+  {
+    "city": "sycamore",
+    "zip_code": "60178"
+  },
+  {
+    "city": "braidwood",
+    "zip_code": "60408"
+  },
+  {
+    "city": "flossmoor",
+    "zip_code": "60422"
+  },
+  {
+    "city": "joliet",
+    "zip_code": "60431"
+  },
+  {
+    "city": "ransom",
+    "zip_code": "60470"
+  },
+  {
+    "city": "willow springs",
+    "zip_code": "60480"
+  },
+  {
+    "city": "yorkville",
+    "zip_code": "60560"
+  },
+  {
+    "city": "niles",
+    "zip_code": "60714"
+  },
+  {
+    "city": "claytonville",
+    "zip_code": "60926"
+  },
+  {
+    "city": "elliott",
+    "zip_code": "60933"
+  },
+  {
+    "city": "paxton",
+    "zip_code": "60957"
+  },
+  {
+    "city": "eleroy",
+    "zip_code": "61027"
+  },
+  {
+    "city": "rio",
+    "zip_code": "61472"
+  },
+  {
+    "city": "stronghurst",
+    "zip_code": "61480"
+  },
+  {
+    "city": "dunfermline",
+    "zip_code": "61524"
+  },
+  {
+    "city": "edwards",
+    "zip_code": "61528"
+  },
+  {
+    "city": "saint david",
+    "zip_code": "61563"
+  },
+  {
+    "city": "kenney",
+    "zip_code": "61749"
+  },
+  {
+    "city": "bunker hill",
+    "zip_code": "62014"
+  },
+  {
+    "city": "rosamond",
+    "zip_code": "62083"
+  },
+  {
+    "city": "chester",
+    "zip_code": "62233"
+  },
+  {
+    "city": "coulterville",
+    "zip_code": "62237"
+  },
+  {
+    "city": "quincy",
+    "zip_code": "62305"
+  },
+  {
+    "city": "tennessee",
+    "zip_code": "62374"
+  },
+  {
+    "city": "versailles",
+    "zip_code": "62378"
+  },
+  {
+    "city": "dieterich",
+    "zip_code": "62424"
+  },
+  {
+    "city": "kincaid",
+    "zip_code": "62540"
+  },
+  {
+    "city": "bluff springs",
+    "zip_code": "62622"
+  },
+  {
+    "city": "havana",
+    "zip_code": "62644"
+  },
+  {
+    "city": "oakford",
+    "zip_code": "62673"
+  },
+  {
+    "city": "elizabethtown",
+    "zip_code": "62931"
+  },
+  {
+    "city": "karnak",
+    "zip_code": "62956"
+  },
+  {
+    "city": "mcclure",
+    "zip_code": "62957"
+  },
+  {
+    "city": "murphysboro",
+    "zip_code": "62966"
+  },
+  {
+    "city": "shawneetown",
+    "zip_code": "62984"
+  },
+  {
+    "city": "hematite",
+    "zip_code": "63047"
+  },
+  {
+    "city": "hillsboro",
+    "zip_code": "63050"
+  },
+  {
+    "city": "saint louis",
+    "zip_code": "63136"
+  },
+  {
+    "city": "hawk point",
+    "zip_code": "63349"
+  },
+  {
+    "city": "lancaster",
+    "zip_code": "63548"
+  },
+  {
+    "city": "cadet",
+    "zip_code": "63630"
+  },
+  {
+    "city": "scott city",
+    "zip_code": "63780"
+  },
+  {
+    "city": "sturdivant",
+    "zip_code": "63782"
+  },
+  {
+    "city": "bertrand",
+    "zip_code": "63823"
+  },
+  {
+    "city": "clarkton",
+    "zip_code": "63837"
+  },
+  {
+    "city": "dexter",
+    "zip_code": "63841"
+  },
+  {
+    "city": "senath",
+    "zip_code": "63876"
+  },
+  {
+    "city": "greenville",
+    "zip_code": "63944"
+  },
+  {
+    "city": "waverly",
+    "zip_code": "64096"
+  },
+  {
+    "city": "mound city",
+    "zip_code": "64470"
+  },
+  {
+    "city": "rushville",
+    "zip_code": "64484"
+  },
+  {
+    "city": "stanberry",
+    "zip_code": "64489"
+  },
+  {
+    "city": "saint joseph",
+    "zip_code": "64501"
+  },
+  {
+    "city": "saint joseph",
+    "zip_code": "64503"
+  },
+  {
+    "city": "braymer",
+    "zip_code": "64624"
+  },
+  {
+    "city": "gallatin",
+    "zip_code": "64640"
+  },
+  {
+    "city": "gilman city",
+    "zip_code": "64642"
+  },
+  {
+    "city": "jamesport",
+    "zip_code": "64648"
+  },
+  {
+    "city": "polo",
+    "zip_code": "64671"
+  },
+  {
+    "city": "rothville",
+    "zip_code": "64676"
+  },
+  {
+    "city": "harwood",
+    "zip_code": "64750"
+  },
+  {
+    "city": "liberal",
+    "zip_code": "64762"
+  },
+  {
+    "city": "joplin",
+    "zip_code": "64804"
+  },
+  {
+    "city": "eldon",
+    "zip_code": "65026"
+  },
+  {
+    "city": "prairie home",
+    "zip_code": "65068"
+  },
+  {
+    "city": "glasgow",
+    "zip_code": "65254"
+  },
+  {
+    "city": "holliday",
+    "zip_code": "65258"
+  },
+  {
+    "city": "bucyrus",
+    "zip_code": "65444"
+  },
+  {
+    "city": "huggins",
+    "zip_code": "65484"
+  },
+  {
+    "city": "clever",
+    "zip_code": "65631"
+  },
+  {
+    "city": "hartville",
+    "zip_code": "65667"
+  },
+  {
+    "city": "thayer",
+    "zip_code": "65791"
+  },
+  {
+    "city": "lecompton",
+    "zip_code": "66050"
+  },
+  {
+    "city": "kansas city",
+    "zip_code": "66109"
+  },
+  {
+    "city": "shawnee",
+    "zip_code": "66226"
+  },
+  {
+    "city": "baileyville",
+    "zip_code": "66404"
+  },
+  {
+    "city": "centralia",
+    "zip_code": "66415"
+  },
+  {
+    "city": "everest",
+    "zip_code": "66424"
+  },
+  {
+    "city": "fort scott",
+    "zip_code": "66701"
+  },
+  {
+    "city": "redfield",
+    "zip_code": "66769"
+  },
+  {
+    "city": "admire",
+    "zip_code": "66830"
+  },
+  {
+    "city": "burlington",
+    "zip_code": "66839"
+  },
+  {
+    "city": "neosho rapids",
+    "zip_code": "66864"
+  },
+  {
+    "city": "strong city",
+    "zip_code": "66869"
+  },
+  {
+    "city": "barnes",
+    "zip_code": "66933"
+  },
+  {
+    "city": "benton",
+    "zip_code": "67017"
+  },
+  {
+    "city": "clearwater",
+    "zip_code": "67026"
+  },
+  {
+    "city": "conway springs",
+    "zip_code": "67031"
+  },
+  {
+    "city": "elbing",
+    "zip_code": "67041"
+  },
+  {
+    "city": "freeport",
+    "zip_code": "67049"
+  },
+  {
+    "city": "milton",
+    "zip_code": "67106"
+  },
+  {
+    "city": "mullinville",
+    "zip_code": "67109"
+  },
+  {
+    "city": "newton",
+    "zip_code": "67114"
+  },
+  {
+    "city": "mcpherson",
+    "zip_code": "67460"
+  },
+  {
+    "city": "lyons",
+    "zip_code": "67554"
+  },
+  {
+    "city": "nickerson",
+    "zip_code": "67561"
+  },
+  {
+    "city": "pretty prairie",
+    "zip_code": "67570"
+  },
+  {
+    "city": "damar",
+    "zip_code": "67632"
+  },
+  {
+    "city": "kirwin",
+    "zip_code": "67644"
+  },
+  {
+    "city": "brewster",
+    "zip_code": "67732"
+  },
+  {
+    "city": "oberlin",
+    "zip_code": "67749"
+  },
+  {
+    "city": "cimarron",
+    "zip_code": "67835"
+  },
+  {
+    "city": "scott city",
+    "zip_code": "67871"
+  },
+  {
+    "city": "rolla",
+    "zip_code": "67954"
+  },
+  {
+    "city": "omaha",
+    "zip_code": "68117"
+  },
+  {
+    "city": "omaha",
+    "zip_code": "68137"
+  },
+  {
+    "city": "omaha",
+    "zip_code": "68164"
+  },
+  {
+    "city": "brownville",
+    "zip_code": "68321"
+  },
+  {
+    "city": "hickman",
+    "zip_code": "68372"
+  },
+  {
+    "city": "lincoln",
+    "zip_code": "68527"
+  },
+  {
+    "city": "osceola",
+    "zip_code": "68651"
+  },
+  {
+    "city": "oakdale",
+    "zip_code": "68761"
+  },
+  {
+    "city": "hampton",
+    "zip_code": "68843"
+  },
+  {
+    "city": "kearney",
+    "zip_code": "68845"
+  },
+  {
+    "city": "litchfield",
+    "zip_code": "68852"
+  },
+  {
+    "city": "mason city",
+    "zip_code": "68855"
+  },
+  {
+    "city": "ord",
+    "zip_code": "68862"
+  },
+  {
+    "city": "saint libory",
+    "zip_code": "68872"
+  },
+  {
+    "city": "deweese",
+    "zip_code": "68934"
+  },
+  {
+    "city": "elwood",
+    "zip_code": "68937"
+  },
+  {
+    "city": "fairfield",
+    "zip_code": "68938"
+  },
+  {
+    "city": "gordon",
+    "zip_code": "69343"
+  },
+  {
+    "city": "pointe a la hache",
+    "zip_code": "70082"
+  },
+  {
+    "city": "gibson",
+    "zip_code": "70356"
+  },
+  {
+    "city": "grand isle",
+    "zip_code": "70358"
+  },
+  {
+    "city": "bogalusa",
+    "zip_code": "70427"
+  },
+  {
+    "city": "covington",
+    "zip_code": "70435"
+  },
+  {
+    "city": "franklin",
+    "zip_code": "70538"
+  },
+  {
+    "city": "kaplan",
+    "zip_code": "70548"
+  },
+  {
+    "city": "maurice",
+    "zip_code": "70555"
+  },
+  {
+    "city": "morse",
+    "zip_code": "70559"
+  },
+  {
+    "city": "saint martinville",
+    "zip_code": "70582"
+  },
+  {
+    "city": "starks",
+    "zip_code": "70661"
+  },
+  {
+    "city": "brusly",
+    "zip_code": "70719"
+  },
+  {
+    "city": "jackson",
+    "zip_code": "70748"
+  },
+  {
+    "city": "lettsworth",
+    "zip_code": "70753"
+  },
+  {
+    "city": "keatchie",
+    "zip_code": "71046"
+  },
+  {
+    "city": "monroe",
+    "zip_code": "71209"
+  },
+  {
+    "city": "transylvania",
+    "zip_code": "71286"
+  },
+  {
+    "city": "cheneyville",
+    "zip_code": "71325"
+  },
+  {
+    "city": "lebeau",
+    "zip_code": "71345"
+  },
+  {
+    "city": "morrow",
+    "zip_code": "71356"
+  },
+  {
+    "city": "newellton",
+    "zip_code": "71357"
+  },
+  {
+    "city": "simmesport",
+    "zip_code": "71369"
+  },
+  {
+    "city": "atlanta",
+    "zip_code": "71404"
+  },
+  {
+    "city": "bentley",
+    "zip_code": "71407"
+  },
+  {
+    "city": "fisher",
+    "zip_code": "71426"
+  },
+  {
+    "city": "parkdale",
+    "zip_code": "71661"
+  },
+  {
+    "city": "hot springs village",
+    "zip_code": "71909"
+  },
+  {
+    "city": "grannis",
+    "zip_code": "71944"
+  },
+  {
+    "city": "mount ida",
+    "zip_code": "71957"
+  },
+  {
+    "city": "conway",
+    "zip_code": "72035"
+  },
+  {
+    "city": "crumrod",
+    "zip_code": "72328"
+  },
+  {
+    "city": "alicia",
+    "zip_code": "72410"
+  },
+  {
+    "city": "minturn",
+    "zip_code": "72445"
+  },
+  {
+    "city": "cord",
+    "zip_code": "72524"
+  },
+  {
+    "city": "drasco",
+    "zip_code": "72530"
+  },
+  {
+    "city": "gamaliel",
+    "zip_code": "72537"
+  },
+  {
+    "city": "pyatt",
+    "zip_code": "72672"
+  },
+  {
+    "city": "yellville",
+    "zip_code": "72687"
+  },
+  {
+    "city": "springdale",
+    "zip_code": "72762"
+  },
+  {
+    "city": "paris",
+    "zip_code": "72855"
+  },
+  {
+    "city": "arcadia",
+    "zip_code": "73007"
+  },
+  {
+    "city": "bradley",
+    "zip_code": "73011"
+  },
+  {
+    "city": "norman",
+    "zip_code": "73019"
+  },
+  {
+    "city": "cyril",
+    "zip_code": "73029"
+  },
+  {
+    "city": "greenfield",
+    "zip_code": "73043"
+  },
+  {
+    "city": "marietta",
+    "zip_code": "73448"
+  },
+  {
+    "city": "mead",
+    "zip_code": "73449"
+  },
+  {
+    "city": "ravia",
+    "zip_code": "73455"
+  },
+  {
+    "city": "tatums",
+    "zip_code": "73487"
+  },
+  {
+    "city": "mangum",
+    "zip_code": "73554"
+  },
+  {
+    "city": "olustee",
+    "zip_code": "73560"
+  },
+  {
+    "city": "cordell",
+    "zip_code": "73632"
+  },
+  {
+    "city": "dill city",
+    "zip_code": "73641"
+  },
+  {
+    "city": "ames",
+    "zip_code": "73718"
+  },
+  {
+    "city": "hillsdale",
+    "zip_code": "73743"
+  },
+  {
+    "city": "longdale",
+    "zip_code": "73755"
+  },
+  {
+    "city": "cleveland",
+    "zip_code": "74020"
+  },
+  {
+    "city": "delaware",
+    "zip_code": "74027"
+  },
+  {
+    "city": "stillwater",
+    "zip_code": "74078"
+  },
+  {
+    "city": "tulsa",
+    "zip_code": "74104"
+  },
+  {
+    "city": "jay",
+    "zip_code": "74346"
+  },
+  {
+    "city": "twin oaks",
+    "zip_code": "74368"
+  },
+  {
+    "city": "hitchita",
+    "zip_code": "74438"
+  },
+  {
+    "city": "stuart",
+    "zip_code": "74570"
+  },
+  {
+    "city": "nardin",
+    "zip_code": "74646"
+  },
+  {
+    "city": "eagletown",
+    "zip_code": "74734"
+  },
+  {
+    "city": "soper",
+    "zip_code": "74759"
+  },
+  {
+    "city": "stratford",
+    "zip_code": "74872"
+  },
+  {
+    "city": "coppell",
+    "zip_code": "75019"
+  },
+  {
+    "city": "plano",
+    "zip_code": "75024"
+  },
+  {
+    "city": "frisco",
+    "zip_code": "75035"
+  },
+  {
+    "city": "josephine",
+    "zip_code": "75164"
+  },
+  {
+    "city": "dallas",
+    "zip_code": "75218"
+  },
+  {
+    "city": "leonard",
+    "zip_code": "75452"
+  },
+  {
+    "city": "ravenna",
+    "zip_code": "75476"
+  },
+  {
+    "city": "sulphur bluff",
+    "zip_code": "75481"
+  },
+  {
+    "city": "sulphur springs",
+    "zip_code": "75482"
+  },
+  {
+    "city": "bloomburg",
+    "zip_code": "75556"
+  },
+  {
+    "city": "longview",
+    "zip_code": "75603"
+  },
+  {
+    "city": "mount enterprise",
+    "zip_code": "75681"
+  },
+  {
+    "city": "new summerfield",
+    "zip_code": "75780"
+  },
+  {
+    "city": "van",
+    "zip_code": "75790"
+  },
+  {
+    "city": "winona",
+    "zip_code": "75792"
+  },
+  {
+    "city": "trinity",
+    "zip_code": "75862"
+  },
+  {
+    "city": "keller",
+    "zip_code": "76248"
+  },
+  {
+    "city": "carbon",
+    "zip_code": "76435"
+  },
+  {
+    "city": "belton",
+    "zip_code": "76513"
+  },
+  {
+    "city": "chilton",
+    "zip_code": "76632"
+  },
+  {
+    "city": "hewitt",
+    "zip_code": "76643"
+  },
+  {
+    "city": "kosse",
+    "zip_code": "76653"
+  },
+  {
+    "city": "houston",
+    "zip_code": "77014"
+  },
+  {
+    "city": "houston",
+    "zip_code": "77030"
+  },
+  {
+    "city": "houston",
+    "zip_code": "77036"
+  },
+  {
+    "city": "houston",
+    "zip_code": "77059"
+  },
+  {
+    "city": "houston",
+    "zip_code": "77060"
+  },
+  {
+    "city": "cypress",
+    "zip_code": "77433"
+  },
+  {
+    "city": "prairie view",
+    "zip_code": "77446"
+  },
+  {
+    "city": "lane city",
+    "zip_code": "77453"
+  },
+  {
+    "city": "galveston",
+    "zip_code": "77550"
+  },
+  {
+    "city": "winnie",
+    "zip_code": "77665"
+  },
+  {
+    "city": "beaumont",
+    "zip_code": "77702"
+  },
+  {
+    "city": "somerville",
+    "zip_code": "77879"
+  },
+  {
+    "city": "castroville",
+    "zip_code": "78009"
+  },
+  {
+    "city": "encinal",
+    "zip_code": "78019"
+  },
+  {
+    "city": "spring branch",
+    "zip_code": "78070"
+  },
+  {
+    "city": "new braunfels",
+    "zip_code": "78132"
+  },
+  {
+    "city": "runge",
+    "zip_code": "78151"
+  },
+  {
+    "city": "san antonio",
+    "zip_code": "78222"
+  },
+  {
+    "city": "sarita",
+    "zip_code": "78385"
+  },
+  {
+    "city": "corpus christi",
+    "zip_code": "78410"
+  },
+  {
+    "city": "san perlita",
+    "zip_code": "78590"
+  },
+  {
+    "city": "south padre island",
+    "zip_code": "78597"
+  },
+  {
+    "city": "dale",
+    "zip_code": "78616"
+  },
+  {
+    "city": "driftwood",
+    "zip_code": "78619"
+  },
+  {
+    "city": "paige",
+    "zip_code": "78659"
+  },
+  {
+    "city": "round rock",
+    "zip_code": "78664"
+  },
+  {
+    "city": "austin",
+    "zip_code": "78735"
+  },
+  {
+    "city": "austin",
+    "zip_code": "78753"
+  },
+  {
+    "city": "knippa",
+    "zip_code": "78870"
+  },
+  {
+    "city": "ellinger",
+    "zip_code": "78938"
+  },
+  {
+    "city": "hereford",
+    "zip_code": "79045"
+  },
+  {
+    "city": "levelland",
+    "zip_code": "79336"
+  },
+  {
+    "city": "muleshoe",
+    "zip_code": "79347"
+  },
+  {
+    "city": "new deal",
+    "zip_code": "79350"
+  },
+  {
+    "city": "aspermont",
+    "zip_code": "79502"
+  },
+  {
+    "city": "knox city",
+    "zip_code": "79529"
+  },
+  {
+    "city": "tarzan",
+    "zip_code": "79783"
+  },
+  {
+    "city": "el paso",
+    "zip_code": "79906"
+  },
+  {
+    "city": "el paso",
+    "zip_code": "79920"
+  },
+  {
+    "city": "el paso",
+    "zip_code": "79942"
+  },
+  {
+    "city": "deer trail",
+    "zip_code": "80105"
+  },
+  {
+    "city": "larkspur",
+    "zip_code": "80118"
+  },
+  {
+    "city": "littleton",
+    "zip_code": "80120"
+  },
+  {
+    "city": "littleton",
+    "zip_code": "80121"
+  },
+  {
+    "city": "littleton",
+    "zip_code": "80123"
+  },
+  {
+    "city": "denver",
+    "zip_code": "80227"
+  },
+  {
+    "city": "denver",
+    "zip_code": "80235"
+  },
+  {
+    "city": "denver",
+    "zip_code": "80237"
+  },
+  {
+    "city": "denver",
+    "zip_code": "80264"
+  },
+  {
+    "city": "bond",
+    "zip_code": "80423"
+  },
+  {
+    "city": "allenspark",
+    "zip_code": "80510"
+  },
+  {
+    "city": "fort collins",
+    "zip_code": "80521"
+  },
+  {
+    "city": "colorado springs",
+    "zip_code": "80914"
+  },
+  {
+    "city": "colorado springs",
+    "zip_code": "80921"
+  },
+  {
+    "city": "aguilar",
+    "zip_code": "81020"
+  },
+  {
+    "city": "eads",
+    "zip_code": "81036"
+  },
+  {
+    "city": "hartman",
+    "zip_code": "81043"
+  },
+  {
+    "city": "romeo",
+    "zip_code": "81148"
+  },
+  {
+    "city": "crested butte",
+    "zip_code": "81225"
+  },
+  {
+    "city": "egnar",
+    "zip_code": "81325"
+  },
+  {
+    "city": "yellow jacket",
+    "zip_code": "81335"
+  },
+  {
+    "city": "maybell",
+    "zip_code": "81640"
+  },
+  {
+    "city": "yellowstone national park",
+    "zip_code": "82190"
+  },
+  {
+    "city": "manville",
+    "zip_code": "82227"
+  },
+  {
+    "city": "veteran",
+    "zip_code": "82243"
+  },
+  {
+    "city": "walcott",
+    "zip_code": "82335"
+  },
+  {
+    "city": "cowley",
+    "zip_code": "82420"
+  },
+  {
+    "city": "wapiti",
+    "zip_code": "82450"
+  },
+  {
+    "city": "riverton",
+    "zip_code": "82501"
+  },
+  {
+    "city": "recluse",
+    "zip_code": "82725"
+  },
+  {
+    "city": "parkman",
+    "zip_code": "82838"
+  },
+  {
+    "city": "little america",
+    "zip_code": "82929"
+  },
+  {
+    "city": "bedford",
+    "zip_code": "83112"
+  },
+  {
+    "city": "bancroft",
+    "zip_code": "83217"
+  },
+  {
+    "city": "bloomington",
+    "zip_code": "83223"
+  },
+  {
+    "city": "downey",
+    "zip_code": "83234"
+  },
+  {
+    "city": "malta",
+    "zip_code": "83342"
+  },
+  {
+    "city": "lemhi",
+    "zip_code": "83465"
+  },
+  {
+    "city": "pollock",
+    "zip_code": "83547"
+  },
+  {
+    "city": "murphy",
+    "zip_code": "83650"
+  },
+  {
+    "city": "notus",
+    "zip_code": "83656"
+  },
+  {
+    "city": "nampa",
+    "zip_code": "83687"
+  },
+  {
+    "city": "osburn",
+    "zip_code": "83849"
+  },
+  {
+    "city": "dutch john",
+    "zip_code": "84023"
+  },
+  {
+    "city": "kaysville",
+    "zip_code": "84037"
+  },
+  {
+    "city": "morgan",
+    "zip_code": "84050"
+  },
+  {
+    "city": "salt lake city",
+    "zip_code": "84115"
+  },
+  {
+    "city": "hyde park",
+    "zip_code": "84318"
+  },
+  {
+    "city": "manti",
+    "zip_code": "84642"
+  },
+  {
+    "city": "marysvale",
+    "zip_code": "84750"
+  },
+  {
+    "city": "orderville",
+    "zip_code": "84758"
+  },
+  {
+    "city": "saint george",
+    "zip_code": "84790"
+  },
+  {
+    "city": "phoenix",
+    "zip_code": "85013"
+  },
+  {
+    "city": "phoenix",
+    "zip_code": "85042"
+  },
+  {
+    "city": "phoenix",
+    "zip_code": "85045"
+  },
+  {
+    "city": "arizona city",
+    "zip_code": "85123"
+  },
+  {
+    "city": "kearny",
+    "zip_code": "85137"
+  },
+  {
+    "city": "black canyon city",
+    "zip_code": "85324"
+  },
+  {
+    "city": "parker",
+    "zip_code": "85344"
+  },
+  {
+    "city": "salome",
+    "zip_code": "85348"
+  },
+  {
+    "city": "wenden",
+    "zip_code": "85357"
+  },
+  {
+    "city": "peoria",
+    "zip_code": "85381"
+  },
+  {
+    "city": "safford",
+    "zip_code": "85546"
+  },
+  {
+    "city": "solomon",
+    "zip_code": "85551"
+  },
+  {
+    "city": "mount lemmon",
+    "zip_code": "85619"
+  },
+  {
+    "city": "tucson",
+    "zip_code": "85736"
+  },
+  {
+    "city": "littlefield",
+    "zip_code": "86432"
+  },
+  {
+    "city": "bullhead city",
+    "zip_code": "86442"
+  },
+  {
+    "city": "fort defiance",
+    "zip_code": "86504"
+  },
+  {
+    "city": "jarales",
+    "zip_code": "87023"
+  },
+  {
+    "city": "mountainair",
+    "zip_code": "87036"
+  },
+  {
+    "city": "flora vista",
+    "zip_code": "87415"
+  },
+  {
+    "city": "santa fe",
+    "zip_code": "87508"
+  },
+  {
+    "city": "santa cruz",
+    "zip_code": "87567"
+  },
+  {
+    "city": "mora",
+    "zip_code": "87732"
+  },
+  {
+    "city": "elephant butte",
+    "zip_code": "87935"
+  },
+  {
+    "city": "henderson",
+    "zip_code": "89012"
+  },
+  {
+    "city": "pioche",
+    "zip_code": "89043"
+  },
+  {
+    "city": "las vegas",
+    "zip_code": "89109"
+  },
+  {
+    "city": "denio",
+    "zip_code": "89404"
+  },
+  {
+    "city": "schurz",
+    "zip_code": "89427"
+  },
+  {
+    "city": "los angeles",
+    "zip_code": "90024"
+  },
+  {
+    "city": "los angeles",
+    "zip_code": "90059"
+  },
+  {
+    "city": "los angeles",
+    "zip_code": "90068"
+  },
+  {
+    "city": "compton",
+    "zip_code": "90220"
+  },
+  {
+    "city": "culver city",
+    "zip_code": "90232"
+  },
+  {
+    "city": "gardena",
+    "zip_code": "90248"
+  },
+  {
+    "city": "redondo beach",
+    "zip_code": "90277"
+  },
+  {
+    "city": "torrance",
+    "zip_code": "90503"
+  },
+  {
+    "city": "whittier",
+    "zip_code": "90604"
+  },
+  {
+    "city": "la habra",
+    "zip_code": "90631"
+  },
+  {
+    "city": "san pedro",
+    "zip_code": "90732"
+  },
+  {
+    "city": "calabasas",
+    "zip_code": "91302"
+  },
+  {
+    "city": "woodland hills",
+    "zip_code": "91364"
+  },
+  {
+    "city": "sherman oaks",
+    "zip_code": "91423"
+  },
+  {
+    "city": "rancho cucamonga",
+    "zip_code": "91701"
+  },
+  {
+    "city": "upland",
+    "zip_code": "91784"
+  },
+  {
+    "city": "dulzura",
+    "zip_code": "91917"
+  },
+  {
+    "city": "spring valley",
+    "zip_code": "91977"
+  },
+  {
+    "city": "san diego",
+    "zip_code": "92121"
+  },
+  {
+    "city": "twentynine palms",
+    "zip_code": "92277"
+  },
+  {
+    "city": "colton",
+    "zip_code": "92324"
+  },
+  {
+    "city": "orange",
+    "zip_code": "92866"
+  },
+  {
+    "city": "moorpark",
+    "zip_code": "93021"
+  },
+  {
+    "city": "california hot springs",
+    "zip_code": "93207"
+  },
+  {
+    "city": "delano",
+    "zip_code": "93215"
+  },
+  {
+    "city": "visalia",
+    "zip_code": "93291"
+  },
+  {
+    "city": "san luis obispo",
+    "zip_code": "93401"
+  },
+  {
+    "city": "trona",
+    "zip_code": "93562"
+  },
+  {
+    "city": "fowler",
+    "zip_code": "93625"
+  },
+  {
+    "city": "sunnyvale",
+    "zip_code": "94086"
+  },
+  {
+    "city": "san mateo",
+    "zip_code": "94404"
+  },
+  {
+    "city": "danville",
+    "zip_code": "94526"
+  },
+  {
+    "city": "diablo",
+    "zip_code": "94528"
+  },
+  {
+    "city": "moraga",
+    "zip_code": "94556"
+  },
+  {
+    "city": "san ramon",
+    "zip_code": "94582"
+  },
+  {
+    "city": "olema",
+    "zip_code": "94950"
+  },
+  {
+    "city": "san jose",
+    "zip_code": "95127"
+  },
+  {
+    "city": "stockton",
+    "zip_code": "95207"
+  },
+  {
+    "city": "arnold",
+    "zip_code": "95223"
+  },
+  {
+    "city": "farmington",
+    "zip_code": "95230"
+  },
+  {
+    "city": "crows landing",
+    "zip_code": "95313"
+  },
+  {
+    "city": "long barn",
+    "zip_code": "95335"
+  },
+  {
+    "city": "mariposa",
+    "zip_code": "95338"
+  },
+  {
+    "city": "modesto",
+    "zip_code": "95351"
+  },
+  {
+    "city": "clearlake",
+    "zip_code": "95422"
+  },
+  {
+    "city": "comptche",
+    "zip_code": "95427"
+  },
+  {
+    "city": "fort bragg",
+    "zip_code": "95437"
+  },
+  {
+    "city": "jenner",
+    "zip_code": "95450"
+  },
+  {
+    "city": "ferndale",
+    "zip_code": "95536"
+  },
+  {
+    "city": "piercy",
+    "zip_code": "95587"
+  },
+  {
+    "city": "el dorado",
+    "zip_code": "95623"
+  },
+  {
+    "city": "jackson",
+    "zip_code": "95642"
+  },
+  {
+    "city": "loomis",
+    "zip_code": "95650"
+  },
+  {
+    "city": "sheridan",
+    "zip_code": "95681"
+  },
+  {
+    "city": "vacaville",
+    "zip_code": "95687"
+  },
+  {
+    "city": "yolo",
+    "zip_code": "95697"
+  },
+  {
+    "city": "forbestown",
+    "zip_code": "95941"
+  },
+  {
+    "city": "orland",
+    "zip_code": "95963"
+  },
+  {
+    "city": "washington",
+    "zip_code": "95986"
+  },
+  {
+    "city": "big bend",
+    "zip_code": "96011"
+  },
+  {
+    "city": "etna",
+    "zip_code": "96027"
+  },
+  {
+    "city": "gazelle",
+    "zip_code": "96034"
+  },
+  {
+    "city": "milford",
+    "zip_code": "96121"
+  },
+  {
+    "city": "hawi",
+    "zip_code": "96719"
+  },
+  {
+    "city": "barrigada",
+    "zip_code": "96921"
+  },
+  {
+    "city": "arch cape",
+    "zip_code": "97102"
+  },
+  {
+    "city": "buxton",
+    "zip_code": "97109"
+  },
+  {
+    "city": "cloverdale",
+    "zip_code": "97112"
+  },
+  {
+    "city": "cornelius",
+    "zip_code": "97113"
+  },
+  {
+    "city": "north plains",
+    "zip_code": "97133"
+  },
+  {
+    "city": "yamhill",
+    "zip_code": "97148"
+  },
+  {
+    "city": "portland",
+    "zip_code": "97210"
+  },
+  {
+    "city": "portland",
+    "zip_code": "97224"
+  },
+  {
+    "city": "salem",
+    "zip_code": "97301"
+  },
+  {
+    "city": "salem",
+    "zip_code": "97302"
+  },
+  {
+    "city": "seal rock",
+    "zip_code": "97376"
+  },
+  {
+    "city": "silverton",
+    "zip_code": "97381"
+  },
+  {
+    "city": "deadwood",
+    "zip_code": "97430"
+  },
+  {
+    "city": "gold beach",
+    "zip_code": "97444"
+  },
+  {
+    "city": "lowell",
+    "zip_code": "97452"
+  },
+  {
+    "city": "oakland",
+    "zip_code": "97462"
+  },
+  {
+    "city": "winchester",
+    "zip_code": "97495"
+  },
+  {
+    "city": "medford",
+    "zip_code": "97501"
+  },
+  {
+    "city": "klamath falls",
+    "zip_code": "97601"
+  },
+  {
+    "city": "christmas valley",
+    "zip_code": "97641"
+  },
+  {
+    "city": "ione",
+    "zip_code": "97843"
+  },
+  {
+    "city": "seattle",
+    "zip_code": "98154"
+  },
+  {
+    "city": "everett",
+    "zip_code": "98208"
+  },
+  {
+    "city": "acme",
+    "zip_code": "98220"
+  },
+  {
+    "city": "deming",
+    "zip_code": "98244"
+  },
+  {
+    "city": "port angeles",
+    "zip_code": "98362"
+  },
+  {
+    "city": "spanaway",
+    "zip_code": "98387"
+  },
+  {
+    "city": "lakewood",
+    "zip_code": "98499"
+  },
+  {
+    "city": "chehalis",
+    "zip_code": "98532"
+  },
+  {
+    "city": "copalis crossing",
+    "zip_code": "98536"
+  },
+  {
+    "city": "onalaska",
+    "zip_code": "98570"
+  },
+  {
+    "city": "tokeland",
+    "zip_code": "98590"
+  },
+  {
+    "city": "castle rock",
+    "zip_code": "98611"
+  },
+  {
+    "city": "glenwood",
+    "zip_code": "98619"
+  },
+  {
+    "city": "goldendale",
+    "zip_code": "98620"
+  },
+  {
+    "city": "la center",
+    "zip_code": "98629"
+  },
+  {
+    "city": "vancouver",
+    "zip_code": "98663"
+  },
+  {
+    "city": "soap lake",
+    "zip_code": "98851"
+  },
+  {
+    "city": "granger",
+    "zip_code": "98932"
+  },
+  {
+    "city": "naches",
+    "zip_code": "98937"
+  },
+  {
+    "city": "tieton",
+    "zip_code": "98947"
+  },
+  {
+    "city": "burbank",
+    "zip_code": "99323"
+  },
+  {
+    "city": "kennewick",
+    "zip_code": "99337"
+  },
+  {
+    "city": "kasigluk",
+    "zip_code": "99609"
+  },
+  {
+    "city": "palmer",
+    "zip_code": "99645"
+  },
+  {
+    "city": "nenana",
+    "zip_code": "99760"
+  },
+  {
+    "city": "nulato",
+    "zip_code": "99765"
+  },
+  {
+    "city": "shaktoolik",
+    "zip_code": "99771"
+  },
+  {
+    "city": "venetie",
+    "zip_code": "99781"
+  },
+  {
+    "city": "meyers chuck",
+    "zip_code": "99903"
+  },
+  {
+    "city": "finksburg",
+    "zip_code": "21048"
+  },
+  {
+    "city": "freeland",
+    "zip_code": "21053"
+  },
+  {
+    "city": "severna park",
+    "zip_code": "21146"
+  },
+  {
+    "city": "westernport",
+    "zip_code": "21562"
+  },
+  {
+    "city": "easton",
+    "zip_code": "21601"
+  },
+  {
+    "city": "princess anne",
+    "zip_code": "21853"
+  },
+  {
+    "city": "conowingo",
+    "zip_code": "21918"
+  },
+  {
+    "city": "gordon",
+    "zip_code": "31031"
+  },
+  {
+    "city": "omega",
+    "zip_code": "31775"
+  },
+  {
+    "city": "pavo",
+    "zip_code": "31778"
+  },
+  {
+    "city": "cataula",
+    "zip_code": "31804"
+  },
+  {
+    "city": "pomona park",
+    "zip_code": "32181"
+  },
+  {
+    "city": "jacksonville",
+    "zip_code": "32228"
+  },
+  {
+    "city": "jacksonville",
+    "zip_code": "32246"
+  },
+  {
+    "city": "jacksonville",
+    "zip_code": "32254"
+  },
+  {
+    "city": "gretna",
+    "zip_code": "32332"
+  },
+  {
+    "city": "altamonte springs",
+    "zip_code": "32714"
+  },
+  {
+    "city": "eustis",
+    "zip_code": "32726"
+  },
+  {
+    "city": "maitland",
+    "zip_code": "32751"
+  },
+  {
+    "city": "indialantic",
+    "zip_code": "32903"
+  },
+  {
+    "city": "dania",
+    "zip_code": "33004"
+  },
+  {
+    "city": "pompano beach",
+    "zip_code": "33063"
+  },
+  {
+    "city": "miami",
+    "zip_code": "33176"
+  },
+  {
+    "city": "fort lauderdale",
+    "zip_code": "33326"
+  },
+  {
+    "city": "fort lauderdale",
+    "zip_code": "33331"
+  },
+  {
+    "city": "palm beach gardens",
+    "zip_code": "33418"
+  },
+  {
+    "city": "delray beach",
+    "zip_code": "33446"
+  },
+  {
+    "city": "ruskin",
+    "zip_code": "33570"
+  },
+  {
+    "city": "tampa",
+    "zip_code": "33629"
+  },
+  {
+    "city": "saint petersburg",
+    "zip_code": "33703"
+  },
+  {
+    "city": "saint petersburg",
+    "zip_code": "33707"
+  },
+  {
+    "city": "lakeland",
+    "zip_code": "33815"
+  },
+  {
+    "city": "homeland",
+    "zip_code": "33847"
+  },
+  {
+    "city": "cape coral",
+    "zip_code": "33904"
+  },
+  {
+    "city": "labelle",
+    "zip_code": "33935"
+  },
+  {
+    "city": "parrish",
+    "zip_code": "34219"
+  },
+  {
+    "city": "ocala",
+    "zip_code": "34473"
+  },
+  {
+    "city": "ocala",
+    "zip_code": "34480"
+  },
+  {
+    "city": "palm harbor",
+    "zip_code": "34683"
+  },
+  {
+    "city": "wildwood",
+    "zip_code": "34785"
+  },
+  {
+    "city": "double springs",
+    "zip_code": "35553"
+  },
+  {
+    "city": "hamilton",
+    "zip_code": "35570"
+  },
+  {
+    "city": "natural bridge",
+    "zip_code": "35577"
+  },
+  {
+    "city": "sipsey",
+    "zip_code": "35584"
+  },
+  {
+    "city": "athens",
+    "zip_code": "35613"
+  },
+  {
+    "city": "killen",
+    "zip_code": "35645"
+  },
+  {
+    "city": "new hope",
+    "zip_code": "35760"
+  },
+  {
+    "city": "huntsville",
+    "zip_code": "35805"
+  },
+  {
+    "city": "huntsville",
+    "zip_code": "35811"
+  },
+  {
+    "city": "huntsville",
+    "zip_code": "35824"
+  },
+  {
+    "city": "elmore",
+    "zip_code": "36025"
+  },
+  {
+    "city": "gordon",
+    "zip_code": "36343"
+  },
+  {
+    "city": "opp",
+    "zip_code": "36467"
+  },
+  {
+    "city": "coden",
+    "zip_code": "36523"
+  },
+  {
+    "city": "saraland",
+    "zip_code": "36571"
+  },
+  {
+    "city": "plantersville",
+    "zip_code": "36758"
+  },
+  {
+    "city": "christiana",
+    "zip_code": "37037"
+  },
+  {
+    "city": "hermitage",
+    "zip_code": "37076"
+  },
+  {
+    "city": "ducktown",
+    "zip_code": "37326"
+  },
+  {
+    "city": "gruetli laager",
+    "zip_code": "37339"
+  },
+  {
+    "city": "chattanooga",
+    "zip_code": "37406"
+  },
+  {
+    "city": "cosby",
+    "zip_code": "37722"
+  },
+  {
+    "city": "harriman",
+    "zip_code": "37748"
+  },
+  {
+    "city": "louisville",
+    "zip_code": "37777"
+  },
+  {
+    "city": "maury city",
+    "zip_code": "38050"
+  },
+  {
+    "city": "tiptonville",
+    "zip_code": "38079"
+  },
+  {
+    "city": "memphis",
+    "zip_code": "38117"
+  },
+  {
+    "city": "cottage grove",
+    "zip_code": "38224"
+  },
+  {
+    "city": "dresden",
+    "zip_code": "38225"
+  },
+  {
+    "city": "cedar grove",
+    "zip_code": "38321"
+  },
+  {
+    "city": "humboldt",
+    "zip_code": "38343"
+  },
+  {
+    "city": "chestnut mound",
+    "zip_code": "38552"
+  },
+  {
+    "city": "como",
+    "zip_code": "38619"
+  },
+  {
+    "city": "lamar",
+    "zip_code": "38642"
+  },
+  {
+    "city": "tunica",
+    "zip_code": "38676"
+  },
+  {
+    "city": "gunnison",
+    "zip_code": "38746"
+  },
+  {
+    "city": "merigold",
+    "zip_code": "38759"
+  },
+  {
+    "city": "greenwood",
+    "zip_code": "38945"
+  },
+  {
+    "city": "belzoni",
+    "zip_code": "39038"
+  },
+  {
+    "city": "brandon",
+    "zip_code": "39047"
+  },
+  {
+    "city": "goodman",
+    "zip_code": "39079"
+  },
+  {
+    "city": "mize",
+    "zip_code": "39116"
+  },
+  {
+    "city": "meridian",
+    "zip_code": "39305"
+  },
+  {
+    "city": "decatur",
+    "zip_code": "39327"
+  },
+  {
+    "city": "rose hill",
+    "zip_code": "39356"
+  },
+  {
+    "city": "laurel",
+    "zip_code": "39443"
+  },
+  {
+    "city": "gulfport",
+    "zip_code": "39507"
+  },
+  {
+    "city": "climax",
+    "zip_code": "39834"
+  },
+  {
+    "city": "mackville",
+    "zip_code": "40040"
+  },
+  {
+    "city": "new hope",
+    "zip_code": "40052"
+  },
+  {
+    "city": "pendleton",
+    "zip_code": "40055"
+  },
+  {
+    "city": "pewee valley",
+    "zip_code": "40056"
+  },
+  {
+    "city": "irvington",
+    "zip_code": "40146"
+  },
+  {
+    "city": "muldraugh",
+    "zip_code": "40155"
+  },
+  {
+    "city": "lexington",
+    "zip_code": "40505"
+  },
+  {
+    "city": "benham",
+    "zip_code": "40807"
+  },
+  {
+    "city": "cumberland",
+    "zip_code": "40823"
+  },
+  {
+    "city": "holmes mill",
+    "zip_code": "40843"
+  },
+  {
+    "city": "jonesville",
+    "zip_code": "41052"
+  },
+  {
+    "city": "mayslick",
+    "zip_code": "41055"
+  },
+  {
+    "city": "rush",
+    "zip_code": "41168"
+  },
+  {
+    "city": "oil springs",
+    "zip_code": "41238"
+  },
+  {
+    "city": "raccoon",
+    "zip_code": "41557"
+  },
+  {
+    "city": "weeksbury",
+    "zip_code": "41667"
+  },
+  {
+    "city": "ary",
+    "zip_code": "41712"
+  },
+  {
+    "city": "clinton",
+    "zip_code": "42031"
+  },
+  {
+    "city": "tiline",
+    "zip_code": "42083"
+  },
+  {
+    "city": "crofton",
+    "zip_code": "42217"
+  },
+  {
+    "city": "olmstead",
+    "zip_code": "42265"
+  },
+  {
+    "city": "graham",
+    "zip_code": "42344"
+  },
+  {
+    "city": "hartford",
+    "zip_code": "42347"
+  },
+  {
+    "city": "fredonia",
+    "zip_code": "42411"
+  },
+  {
+    "city": "madisonville",
+    "zip_code": "42431"
+  },
+  {
+    "city": "windsor",
+    "zip_code": "42565"
+  },
+  {
+    "city": "strunk",
+    "zip_code": "42649"
+  },
+  {
+    "city": "galena",
+    "zip_code": "43021"
+  },
+  {
+    "city": "hilliard",
+    "zip_code": "43026"
+  },
+  {
+    "city": "pataskala",
+    "zip_code": "43062"
+  },
+  {
+    "city": "powell",
+    "zip_code": "43065"
+  },
+  {
+    "city": "rosewood",
+    "zip_code": "43070"
+  },
+  {
+    "city": "galloway",
+    "zip_code": "43119"
+  },
+  {
+    "city": "logan",
+    "zip_code": "43138"
+  },
+  {
+    "city": "sugar grove",
+    "zip_code": "43155"
+  },
+  {
+    "city": "columbus",
+    "zip_code": "43231"
+  },
+  {
+    "city": "carey",
+    "zip_code": "43316"
+  },
+  {
+    "city": "edison",
+    "zip_code": "43320"
+  },
+  {
+    "city": "prospect",
+    "zip_code": "43342"
+  },
+  {
+    "city": "west liberty",
+    "zip_code": "43357"
+  },
+  {
+    "city": "holgate",
+    "zip_code": "43527"
+  },
+  {
+    "city": "byesville",
+    "zip_code": "43723"
+  },
+  {
+    "city": "hopewell",
+    "zip_code": "43746"
+  },
+  {
+    "city": "roseville",
+    "zip_code": "43777"
+  },
+  {
+    "city": "stratton",
+    "zip_code": "43961"
+  },
+  {
+    "city": "wellsville",
+    "zip_code": "43968"
+  },
+  {
+    "city": "bannock",
+    "zip_code": "43972"
+  },
+  {
+    "city": "lagrange",
+    "zip_code": "44050"
+  },
+  {
+    "city": "cleveland",
+    "zip_code": "44124"
+  },
+  {
+    "city": "solon",
+    "zip_code": "44139"
+  },
+  {
+    "city": "doylestown",
+    "zip_code": "44230"
+  },
+  {
+    "city": "litchfield",
+    "zip_code": "44253"
+  },
+  {
+    "city": "akron",
+    "zip_code": "44302"
+  },
+  {
+    "city": "akron",
+    "zip_code": "44311"
+  },
+  {
+    "city": "kinsman",
+    "zip_code": "44428"
+  },
+  {
+    "city": "new springfield",
+    "zip_code": "44443"
+  },
+  {
+    "city": "southington",
+    "zip_code": "44470"
+  },
+  {
+    "city": "canton",
+    "zip_code": "44709"
+  },
+  {
+    "city": "canton",
+    "zip_code": "44714"
+  },
+  {
+    "city": "green springs",
+    "zip_code": "44836"
+  },
+  {
+    "city": "monroeville",
+    "zip_code": "44847"
+  },
+  {
+    "city": "mansfield",
+    "zip_code": "44905"
+  },
+  {
+    "city": "fairfield",
+    "zip_code": "45014"
+  },
+  {
+    "city": "hooven",
+    "zip_code": "45033"
+  },
+  {
+    "city": "goshen",
+    "zip_code": "45122"
+  },
+  {
+    "city": "cincinnati",
+    "zip_code": "45224"
+  },
+  {
+    "city": "conover",
+    "zip_code": "45317"
+  },
+  {
+    "city": "laura",
+    "zip_code": "45337"
+  },
+  {
+    "city": "dayton",
+    "zip_code": "45459"
+  },
+  {
+    "city": "cynthiana",
+    "zip_code": "45624"
+  },
+  {
+    "city": "frankfort",
+    "zip_code": "45628"
+  },
+  {
+    "city": "south webster",
+    "zip_code": "45682"
+  },
+  {
+    "city": "wheelersburg",
+    "zip_code": "45694"
+  },
+  {
+    "city": "new marshfield",
+    "zip_code": "45766"
+  },
+  {
+    "city": "montezuma",
+    "zip_code": "45866"
+  },
+  {
+    "city": "ottoville",
+    "zip_code": "45876"
+  },
+  {
+    "city": "noblesville",
+    "zip_code": "46062"
+  },
+  {
+    "city": "roachdale",
+    "zip_code": "46172"
+  },
+  {
+    "city": "la crosse",
+    "zip_code": "46348"
+  },
+  {
+    "city": "lake village",
+    "zip_code": "46349"
+  },
+  {
+    "city": "michigan city",
+    "zip_code": "46360"
+  },
+  {
+    "city": "mishawaka",
+    "zip_code": "46544"
+  },
+  {
+    "city": "south bend",
+    "zip_code": "46635"
+  },
+  {
+    "city": "fremont",
+    "zip_code": "46737"
+  },
+  {
+    "city": "hudson",
+    "zip_code": "46747"
+  },
+  {
+    "city": "walton",
+    "zip_code": "46994"
+  },
+  {
+    "city": "aurora",
+    "zip_code": "47001"
+  },
+  {
+    "city": "rising sun",
+    "zip_code": "47040"
+  },
+  {
+    "city": "ramsey",
+    "zip_code": "47166"
+  },
+  {
+    "city": "new point",
+    "zip_code": "47263"
+  },
+  {
+    "city": "seymour",
+    "zip_code": "47274"
+  },
+  {
+    "city": "richmond",
+    "zip_code": "47374"
+  },
+  {
+    "city": "bloomington",
+    "zip_code": "47403"
+  },
+  {
+    "city": "paoli",
+    "zip_code": "47454"
+  },
+  {
+    "city": "springville",
+    "zip_code": "47462"
+  },
+  {
+    "city": "crane",
+    "zip_code": "47522"
+  },
+  {
+    "city": "new ross",
+    "zip_code": "47968"
+  },
+  {
+    "city": "washington",
+    "zip_code": "48095"
+  },
+  {
+    "city": "detroit",
+    "zip_code": "48201"
+  },
+  {
+    "city": "detroit",
+    "zip_code": "48206"
+  },
+  {
+    "city": "farmington",
+    "zip_code": "48335"
+  },
+  {
+    "city": "leonard",
+    "zip_code": "48367"
+  },
+  {
+    "city": "genesee",
+    "zip_code": "48437"
+  },
+  {
+    "city": "marlette",
+    "zip_code": "48453"
+  },
+  {
+    "city": "peck",
+    "zip_code": "48466"
+  },
+  {
+    "city": "kawkawlin",
+    "zip_code": "48631"
+  },
+  {
+    "city": "wheeler",
+    "zip_code": "48662"
+  },
+  {
+    "city": "midland",
+    "zip_code": "48667"
+  },
+  {
+    "city": "barton city",
+    "zip_code": "48705"
+  },
+  {
+    "city": "east tawas",
+    "zip_code": "48730"
+  },
+  {
+    "city": "laingsburg",
+    "zip_code": "48848"
+  },
+  {
+    "city": "winn",
+    "zip_code": "48896"
+  },
+  {
+    "city": "vandalia",
+    "zip_code": "49095"
+  },
+  {
+    "city": "deerfield",
+    "zip_code": "49238"
+  },
+  {
+    "city": "onsted",
+    "zip_code": "49265"
+  },
+  {
+    "city": "waldron",
+    "zip_code": "49288"
+  },
+  {
+    "city": "belmont",
+    "zip_code": "49306"
+  },
+  {
+    "city": "hamilton",
+    "zip_code": "49419"
+  },
+  {
+    "city": "wyoming",
+    "zip_code": "49509"
+  },
+  {
+    "city": "wyoming",
+    "zip_code": "49519"
+  },
+  {
+    "city": "brethren",
+    "zip_code": "49619"
+  },
+  {
+    "city": "copemish",
+    "zip_code": "49625"
+  },
+  {
+    "city": "falmouth",
+    "zip_code": "49632"
+  },
+  {
+    "city": "lake city",
+    "zip_code": "49651"
+  },
+  {
+    "city": "barbeau",
+    "zip_code": "49710"
+  },
+  {
+    "city": "drummond island",
+    "zip_code": "49726"
+  },
+  {
+    "city": "kinross",
+    "zip_code": "49752"
+  },
+  {
+    "city": "moran",
+    "zip_code": "49760"
+  },
+  {
+    "city": "onaway",
+    "zip_code": "49765"
+  },
+  {
+    "city": "pellston",
+    "zip_code": "49769"
+  },
+  {
+    "city": "rumely",
+    "zip_code": "49826"
+  },
+  {
+    "city": "perkins",
+    "zip_code": "49872"
+  },
+  {
+    "city": "quinnesec",
+    "zip_code": "49876"
+  },
+  {
+    "city": "amasa",
+    "zip_code": "49903"
+  },
+  {
+    "city": "atlantic mine",
+    "zip_code": "49905"
+  },
+  {
+    "city": "covington",
+    "zip_code": "49919"
+  },
+  {
+    "city": "crystal falls",
+    "zip_code": "49920"
+  },
+  {
+    "city": "ames",
+    "zip_code": "50014"
+  },
+  {
+    "city": "ellston",
+    "zip_code": "50074"
+  },
+  {
+    "city": "le grand",
+    "zip_code": "50142"
+  },
+  {
+    "city": "maxwell",
+    "zip_code": "50161"
+  },
+  {
+    "city": "pleasantville",
+    "zip_code": "50225"
+  },
+  {
+    "city": "west des moines",
+    "zip_code": "50265"
+  },
+  {
+    "city": "moorland",
+    "zip_code": "50566"
+  },
+  {
+    "city": "aplington",
+    "zip_code": "50604"
+  },
+  {
+    "city": "aredale",
+    "zip_code": "50605"
+  },
+  {
+    "city": "readlyn",
+    "zip_code": "50668"
+  },
+  {
+    "city": "steamboat rock",
+    "zip_code": "50672"
+  },
+  {
+    "city": "sharpsburg",
+    "zip_code": "50862"
+  },
+  {
+    "city": "chatsworth",
+    "zip_code": "51011"
+  },
+  {
+    "city": "salix",
+    "zip_code": "51052"
+  },
+  {
+    "city": "rock valley",
+    "zip_code": "51247"
+  },
+  {
+    "city": "arnolds park",
+    "zip_code": "51331"
+  },
+  {
+    "city": "clarinda",
+    "zip_code": "51632"
+  },
+  {
+    "city": "andrew",
+    "zip_code": "52030"
+  },
+  {
+    "city": "colesburg",
+    "zip_code": "52035"
+  },
+  {
+    "city": "dyersville",
+    "zip_code": "52040"
+  },
+  {
+    "city": "calmar",
+    "zip_code": "52132"
+  },
+  {
+    "city": "cresco",
+    "zip_code": "52136"
+  },
+  {
+    "city": "ridgeway",
+    "zip_code": "52165"
+  },
+  {
+    "city": "iowa city",
+    "zip_code": "52246"
+  },
+  {
+    "city": "mechanicsville",
+    "zip_code": "52306"
+  },
+  {
+    "city": "exline",
+    "zip_code": "52555"
+  },
+  {
+    "city": "moulton",
+    "zip_code": "52572"
+  },
+  {
+    "city": "oskaloosa",
+    "zip_code": "52577"
+  },
+  {
+    "city": "farmington",
+    "zip_code": "52626"
+  },
+  {
+    "city": "salem",
+    "zip_code": "52649"
+  },
+  {
+    "city": "columbus city",
+    "zip_code": "52737"
+  },
+  {
+    "city": "lebanon",
+    "zip_code": "53047"
+  },
+  {
+    "city": "saukville",
+    "zip_code": "53080"
+  },
+  {
+    "city": "fontana",
+    "zip_code": "53125"
+  },
+  {
+    "city": "south milwaukee",
+    "zip_code": "53172"
+  },
+  {
+    "city": "avalon",
+    "zip_code": "53505"
+  },
+  {
+    "city": "cambridge",
+    "zip_code": "53523"
+  },
+  {
+    "city": "waterloo",
+    "zip_code": "53594"
+  },
+  {
+    "city": "waunakee",
+    "zip_code": "53597"
+  },
+  {
+    "city": "madison",
+    "zip_code": "53714"
+  },
+  {
+    "city": "kingston",
+    "zip_code": "53939"
+  },
+  {
+    "city": "lyndon station",
+    "zip_code": "53944"
+  },
+  {
+    "city": "osceola",
+    "zip_code": "54020"
+  },
+  {
+    "city": "sherwood",
+    "zip_code": "54169"
+  },
+  {
+    "city": "hatley",
+    "zip_code": "54440"
+  },
+  {
+    "city": "pickerel",
+    "zip_code": "54465"
+  },
+  {
+    "city": "glidden",
+    "zip_code": "54527"
+  },
+  {
+    "city": "iron belt",
+    "zip_code": "54536"
+  },
+  {
+    "city": "melrose",
+    "zip_code": "54642"
+  },
+  {
+    "city": "cable",
+    "zip_code": "54821"
+  },
+  {
+    "city": "foxboro",
+    "zip_code": "54836"
+  },
+  {
+    "city": "ojibwa",
+    "zip_code": "54862"
+  },
+  {
+    "city": "poplar",
+    "zip_code": "54864"
+  },
+  {
+    "city": "berlin",
+    "zip_code": "54923"
+  },
+  {
+    "city": "hancock",
+    "zip_code": "54943"
+  },
+  {
+    "city": "pickett",
+    "zip_code": "54964"
+  },
+  {
+    "city": "winneconne",
+    "zip_code": "54986"
+  },
+  {
+    "city": "dundas",
+    "zip_code": "55019"
+  },
+  {
+    "city": "farmington",
+    "zip_code": "55024"
+  },
+  {
+    "city": "prior lake",
+    "zip_code": "55372"
+  },
+  {
+    "city": "minneapolis",
+    "zip_code": "55403"
+  },
+  {
+    "city": "minneapolis",
+    "zip_code": "55405"
+  },
+  {
+    "city": "minneapolis",
+    "zip_code": "55455"
+  },
+  {
+    "city": "crane lake",
+    "zip_code": "55725"
+  },
+  {
+    "city": "cromwell",
+    "zip_code": "55726"
+  },
+  {
+    "city": "duluth",
+    "zip_code": "55807"
+  },
+  {
+    "city": "duluth",
+    "zip_code": "55814"
+  },
+  {
+    "city": "zumbro falls",
+    "zip_code": "55991"
+  },
+  {
+    "city": "huntley",
+    "zip_code": "56047"
+  },
+  {
+    "city": "la salle",
+    "zip_code": "56056"
+  },
+  {
+    "city": "alpha",
+    "zip_code": "56111"
+  },
+  {
+    "city": "heron lake",
+    "zip_code": "56137"
+  },
+  {
+    "city": "lake benton",
+    "zip_code": "56149"
+  },
+  {
+    "city": "danube",
+    "zip_code": "56230"
+  },
+  {
+    "city": "echo",
+    "zip_code": "56237"
+  },
+  {
+    "city": "norcross",
+    "zip_code": "56274"
+  },
+  {
+    "city": "deerwood",
+    "zip_code": "56444"
+  },
+  {
+    "city": "campbell",
+    "zip_code": "56522"
+  },
+  {
+    "city": "nashua",
+    "zip_code": "56565"
+  },
+  {
+    "city": "williams",
+    "zip_code": "56686"
+  },
+  {
+    "city": "goodridge",
+    "zip_code": "56725"
+  },
+  {
+    "city": "greenbush",
+    "zip_code": "56726"
+  },
+  {
+    "city": "warren",
+    "zip_code": "56762"
+  },
+  {
+    "city": "marion",
+    "zip_code": "57043"
+  },
+  {
+    "city": "valley springs",
+    "zip_code": "57068"
+  },
+  {
+    "city": "volin",
+    "zip_code": "57072"
+  },
+  {
+    "city": "chamberlain",
+    "zip_code": "57325"
+  },
+  {
+    "city": "geddes",
+    "zip_code": "57342"
+  },
+  {
+    "city": "miller",
+    "zip_code": "57362"
+  },
+  {
+    "city": "aberdeen",
+    "zip_code": "57401"
+  },
+  {
+    "city": "midland",
+    "zip_code": "57552"
+  },
+  {
+    "city": "isabel",
+    "zip_code": "57633"
+  },
+  {
+    "city": "lantry",
+    "zip_code": "57636"
+  },
+  {
+    "city": "wakpala",
+    "zip_code": "57658"
+  },
+  {
+    "city": "caputa",
+    "zip_code": "57725"
+  },
+  {
+    "city": "cogswell",
+    "zip_code": "58017"
+  },
+  {
+    "city": "erie",
+    "zip_code": "58029"
+  },
+  {
+    "city": "grand forks",
+    "zip_code": "58203"
+  },
+  {
+    "city": "aneta",
+    "zip_code": "58212"
+  },
+  {
+    "city": "arvilla",
+    "zip_code": "58214"
+  },
+  {
+    "city": "minto",
+    "zip_code": "58261"
+  },
+  {
+    "city": "bisbee",
+    "zip_code": "58317"
+  },
+  {
+    "city": "warwick",
+    "zip_code": "58381"
+  },
+  {
+    "city": "buchanan",
+    "zip_code": "58420"
+  },
+  {
+    "city": "menoken",
+    "zip_code": "58558"
+  },
+  {
+    "city": "manning",
+    "zip_code": "58642"
+  },
+  {
+    "city": "minot afb",
+    "zip_code": "58705"
+  },
+  {
+    "city": "hatillo",
+    "zip_code": "659"
+  },
+  {
+    "city": "mayaguez",
+    "zip_code": "680"
+  },
+  {
+    "city": "cayey",
+    "zip_code": "736"
+  },
+  {
+    "city": "cummington",
+    "zip_code": "1026"
+  },
+  {
+    "city": "northampton",
+    "zip_code": "1063"
+  },
+  {
+    "city": "springfield",
+    "zip_code": "1104"
+  },
+  {
+    "city": "springfield",
+    "zip_code": "1129"
+  },
+  {
+    "city": "wendell",
+    "zip_code": "1379"
+  },
+  {
+    "city": "shirley",
+    "zip_code": "1464"
+  },
+  {
+    "city": "auburn",
+    "zip_code": "1501"
+  },
+  {
+    "city": "sterling",
+    "zip_code": "1564"
+  },
+  {
+    "city": "acton",
+    "zip_code": "1718"
+  },
+  {
+    "city": "west newbury",
+    "zip_code": "1985"
+  },
+  {
+    "city": "dorchester",
+    "zip_code": "2122"
+  },
+  {
+    "city": "mattapan",
+    "zip_code": "2126"
+  },
+  {
+    "city": "everett",
+    "zip_code": "2149"
+  },
+  {
+    "city": "avon",
+    "zip_code": "2322"
+  },
+  {
+    "city": "kingston",
+    "zip_code": "2364"
+  },
+  {
+    "city": "babson park",
+    "zip_code": "2457"
+  },
+  {
+    "city": "falmouth",
+    "zip_code": "2540"
+  },
+  {
+    "city": "oak bluffs",
+    "zip_code": "2557"
+  },
+  {
+    "city": "hyannis port",
+    "zip_code": "2647"
+  },
+  {
+    "city": "south wellfleet",
+    "zip_code": "2663"
+  },
+  {
+    "city": "west harwich",
+    "zip_code": "2671"
+  },
+  {
+    "city": "fall river",
+    "zip_code": "2721"
+  },
+  {
+    "city": "new bedford",
+    "zip_code": "2745"
+  },
+  {
+    "city": "albion",
+    "zip_code": "2802"
+  },
+  {
+    "city": "deerfield",
+    "zip_code": "3037"
+  },
+  {
+    "city": "temple",
+    "zip_code": "3084"
+  },
+  {
+    "city": "gilford",
+    "zip_code": "3249"
+  },
+  {
+    "city": "north sutton",
+    "zip_code": "3260"
+  },
+  {
+    "city": "northwood",
+    "zip_code": "3261"
+  },
+  {
+    "city": "south sutton",
+    "zip_code": "3273"
+  },
+  {
+    "city": "swanzey",
+    "zip_code": "3446"
+  },
+  {
+    "city": "berlin",
+    "zip_code": "3570"
+  },
+  {
+    "city": "bethlehem",
+    "zip_code": "3574"
+  },
+  {
+    "city": "north walpole",
+    "zip_code": "3609"
+  },
+  {
+    "city": "lebanon",
+    "zip_code": "3766"
+  },
+  {
+    "city": "atkinson",
+    "zip_code": "3811"
+  },
+  {
+    "city": "hampton falls",
+    "zip_code": "3844"
+  },
+  {
+    "city": "madison",
+    "zip_code": "3849"
+  },
+  {
+    "city": "north conway",
+    "zip_code": "3860"
+  },
+  {
+    "city": "kittery",
+    "zip_code": "3904"
+  },
+  {
+    "city": "kittery point",
+    "zip_code": "3905"
+  },
+  {
+    "city": "denmark",
+    "zip_code": "4022"
+  },
+  {
+    "city": "fryeburg",
+    "zip_code": "4037"
+  },
+  {
+    "city": "east andover",
+    "zip_code": "4226"
+  },
+  {
+    "city": "greene",
+    "zip_code": "4236"
+  },
+  {
+    "city": "leeds",
+    "zip_code": "4263"
+  },
+  {
+    "city": "augusta",
+    "zip_code": "4330"
+  },
+  {
+    "city": "whitefield",
+    "zip_code": "4353"
+  },
+  {
+    "city": "mattawamkeag",
+    "zip_code": "4459"
+  },
+  {
+    "city": "waite",
+    "zip_code": "4492"
+  },
+  {
+    "city": "washington",
+    "zip_code": "4574"
+  },
+  {
+    "city": "bass harbor",
+    "zip_code": "4653"
+  },
+  {
+    "city": "new limerick",
+    "zip_code": "4761"
+  },
+  {
+    "city": "athens",
+    "zip_code": "4912"
+  },
+  {
+    "city": "bradford",
+    "zip_code": "5033"
+  },
+  {
+    "city": "jacksonville",
+    "zip_code": "5342"
+  },
+  {
+    "city": "burlington",
+    "zip_code": "5408"
+  },
+  {
+    "city": "belmont",
+    "zip_code": "5730"
+  },
+  {
+    "city": "middlebury",
+    "zip_code": "5753"
+  },
+  {
+    "city": "barnet",
+    "zip_code": "5821"
+  },
+  {
+    "city": "derby line",
+    "zip_code": "5830"
+  },
+  {
+    "city": "manchester",
+    "zip_code": "6042"
+  },
+  {
+    "city": "east windsor",
+    "zip_code": "6088"
+  },
+  {
+    "city": "weatogue",
+    "zip_code": "6089"
+  },
+  {
+    "city": "columbia",
+    "zip_code": "6237"
+  },
+  {
+    "city": "dayville",
+    "zip_code": "6241"
+  },
+  {
+    "city": "south windham",
+    "zip_code": "6266"
+  },
+  {
+    "city": "groton",
+    "zip_code": "6340"
+  },
+  {
+    "city": "guilford",
+    "zip_code": "6437"
+  },
+  {
+    "city": "sandy hook",
+    "zip_code": "6482"
+  },
+  {
+    "city": "shelton",
+    "zip_code": "6484"
+  },
+  {
+    "city": "greenwich",
+    "zip_code": "6830"
+  },
+  {
+    "city": "clifton",
+    "zip_code": "7011"
+  },
+  {
+    "city": "lake hiawatha",
+    "zip_code": "7034"
+  },
+  {
+    "city": "pine brook",
+    "zip_code": "7058"
+  },
+  {
+    "city": "plainfield",
+    "zip_code": "7060"
+  },
+  {
+    "city": "port reading",
+    "zip_code": "7064"
+  },
+  {
+    "city": "rahway",
+    "zip_code": "7065"
+  },
+  {
+    "city": "paterson",
+    "zip_code": "7522"
+  },
+  {
+    "city": "lodi",
+    "zip_code": "7644"
+  },
+  {
+    "city": "park ridge",
+    "zip_code": "7656"
+  },
+  {
+    "city": "river edge",
+    "zip_code": "7661"
+  },
+  {
+    "city": "belmar",
+    "zip_code": "7719"
+  },
+  {
+    "city": "flanders",
+    "zip_code": "7836"
+  },
+  {
+    "city": "wenonah",
+    "zip_code": "8090"
+  },
+  {
+    "city": "west berlin",
+    "zip_code": "8091"
+  },
+  {
+    "city": "west creek",
+    "zip_code": "8092"
+  },
+  {
+    "city": "winslow",
+    "zip_code": "8095"
+  },
+  {
+    "city": "linwood",
+    "zip_code": "8221"
+  },
+  {
+    "city": "villas",
+    "zip_code": "8251"
+  },
+  {
+    "city": "robbinsville",
+    "zip_code": "8691"
+  },
+  {
+    "city": "brielle",
+    "zip_code": "8730"
+  },
+  {
+    "city": "sea girt",
+    "zip_code": "8750"
+  },
+  {
+    "city": "waretown",
+    "zip_code": "8758"
+  },
+  {
+    "city": "new york",
+    "zip_code": "10031"
+  },
+  {
+    "city": "new york",
+    "zip_code": "10112"
+  },
+  {
+    "city": "new york",
+    "zip_code": "10199"
+  },
+  {
+    "city": "staten island",
+    "zip_code": "10301"
+  },
+  {
+    "city": "bronx",
+    "zip_code": "10454"
+  },
+  {
+    "city": "bronx",
+    "zip_code": "10456"
+  },
+  {
+    "city": "bronx",
+    "zip_code": "10459"
+  },
+  {
+    "city": "larchmont",
+    "zip_code": "10538"
+  },
+  {
+    "city": "shrub oak",
+    "zip_code": "10588"
+  },
+  {
+    "city": "west harrison",
+    "zip_code": "10604"
+  },
+  {
+    "city": "white plains",
+    "zip_code": "10605"
+  },
+  {
+    "city": "white plains",
+    "zip_code": "10607"
+  },
+  {
+    "city": "pine island",
+    "zip_code": "10969"
+  },
+  {
+    "city": "westtown",
+    "zip_code": "10998"
+  },
+  {
+    "city": "brooklyn",
+    "zip_code": "11211"
+  },
+  {
+    "city": "little neck",
+    "zip_code": "11363"
+  },
+  {
+    "city": "brentwood",
+    "zip_code": "11717"
+  },
+  {
+    "city": "miller place",
+    "zip_code": "11764"
+  },
+  {
+    "city": "plainview",
+    "zip_code": "11803"
+  },
+  {
+    "city": "austerlitz",
+    "zip_code": "12017"
+  },
+  {
+    "city": "guilderland",
+    "zip_code": "12084"
+  },
+  {
+    "city": "mayfield",
+    "zip_code": "12117"
+  },
+  {
+    "city": "piseco",
+    "zip_code": "12139"
+  },
+  {
+    "city": "sand lake",
+    "zip_code": "12153"
+  },
+  {
+    "city": "west park",
+    "zip_code": "12493"
+  },
+  {
+    "city": "pleasant valley",
+    "zip_code": "12569"
+  },
+  {
+    "city": "lake placid",
+    "zip_code": "12946"
+  },
+  {
+    "city": "peru",
+    "zip_code": "12972"
+  },
+  {
+    "city": "lacona",
+    "zip_code": "13083"
+  },
+  {
+    "city": "liverpool",
+    "zip_code": "13088"
+  },
+  {
+    "city": "verona beach",
+    "zip_code": "13162"
+  },
+  {
+    "city": "bridgewater",
+    "zip_code": "13313"
+  },
+  {
+    "city": "cooperstown",
+    "zip_code": "13326"
+  },
+  {
+    "city": "croghan",
+    "zip_code": "13327"
+  },
+  {
+    "city": "palatine bridge",
+    "zip_code": "13428"
+  },
+  {
+    "city": "woodgate",
+    "zip_code": "13494"
+  },
+  {
+    "city": "felts mills",
+    "zip_code": "13638"
+  },
+  {
+    "city": "bloomville",
+    "zip_code": "13739"
+  },
+  {
+    "city": "alexander",
+    "zip_code": "14005"
+  },
+  {
+    "city": "bliss",
+    "zip_code": "14024"
+  },
+  {
+    "city": "gasport",
+    "zip_code": "14067"
+  },
+  {
+    "city": "perrysburg",
+    "zip_code": "14129"
+  },
+  {
+    "city": "buffalo",
+    "zip_code": "14215"
+  },
+  {
+    "city": "buffalo",
+    "zip_code": "14222"
+  },
+  {
+    "city": "farmington",
+    "zip_code": "14425"
+  },
+  {
+    "city": "clyde",
+    "zip_code": "14433"
+  },
+  {
+    "city": "dansville",
+    "zip_code": "14437"
+  },
+  {
+    "city": "kendall",
+    "zip_code": "14476"
+  },
+  {
+    "city": "rochester",
+    "zip_code": "14615"
+  },
+  {
+    "city": "fillmore",
+    "zip_code": "14735"
+  },
+  {
+    "city": "canaseraga",
+    "zip_code": "14822"
+  },
+  {
+    "city": "cayuta",
+    "zip_code": "14824"
+  },
+  {
+    "city": "jasper",
+    "zip_code": "14855"
+  },
+  {
+    "city": "bunola",
+    "zip_code": "15020"
+  },
+  {
+    "city": "cheswick",
+    "zip_code": "15024"
+  },
+  {
+    "city": "sutersville",
+    "zip_code": "15083"
+  },
+  {
+    "city": "ellsworth",
+    "zip_code": "15331"
+  },
+  {
+    "city": "grindstone",
+    "zip_code": "15442"
+  },
+  {
+    "city": "lake lynn",
+    "zip_code": "15451"
+  },
+  {
+    "city": "roscoe",
+    "zip_code": "15477"
+  },
+  {
+    "city": "jenners",
+    "zip_code": "15546"
+  },
+  {
+    "city": "champion",
+    "zip_code": "15622"
+  },
+  {
+    "city": "loyalhanna",
+    "zip_code": "15661"
+  },
+  {
+    "city": "luxor",
+    "zip_code": "15662"
+  },
+  {
+    "city": "gipsy",
+    "zip_code": "15741"
+  },
+  {
+    "city": "josephine",
+    "zip_code": "15750"
+  },
+  {
+    "city": "valier",
+    "zip_code": "15780"
+  },
+  {
+    "city": "byrnedale",
+    "zip_code": "15827"
+  },
+  {
+    "city": "penfield",
+    "zip_code": "15849"
+  },
+  {
+    "city": "johnstown",
+    "zip_code": "15902"
+  },
+  {
+    "city": "dunlo",
+    "zip_code": "15930"
+  },
+  {
+    "city": "butler",
+    "zip_code": "16002"
+  },
+  {
+    "city": "cabot",
+    "zip_code": "16023"
+  },
+  {
+    "city": "connoquenessing",
+    "zip_code": "16027"
+  },
+  {
+    "city": "sharpsville",
+    "zip_code": "16150"
+  },
+  {
+    "city": "ford city",
+    "zip_code": "16226"
+  },
+  {
+    "city": "freeport",
+    "zip_code": "16229"
+  },
+  {
+    "city": "cooperstown",
+    "zip_code": "16317"
+  },
+  {
+    "city": "youngsville",
+    "zip_code": "16371"
+  },
+  {
+    "city": "saegertown",
+    "zip_code": "16433"
+  },
+  {
+    "city": "springboro",
+    "zip_code": "16435"
+  },
+  {
+    "city": "spring creek",
+    "zip_code": "16436"
+  },
+  {
+    "city": "hesston",
+    "zip_code": "16647"
+  },
+  {
+    "city": "spruce creek",
+    "zip_code": "16683"
+  },
+  {
+    "city": "wells tannery",
+    "zip_code": "16691"
+  },
+  {
+    "city": "coudersport",
+    "zip_code": "16915"
+  },
+  {
+    "city": "middlebury center",
+    "zip_code": "16935"
+  },
+  {
+    "city": "allensville",
+    "zip_code": "17002"
+  },
+  {
+    "city": "burnham",
+    "zip_code": "17009"
+  },
+  {
+    "city": "dillsburg",
+    "zip_code": "17019"
+  },
+  {
+    "city": "oakland mills",
+    "zip_code": "17076"
+  },
+  {
+    "city": "wiconisco",
+    "zip_code": "17097"
+  },
+  {
+    "city": "fort loudon",
+    "zip_code": "17224"
+  },
+  {
+    "city": "pleasant hall",
+    "zip_code": "17246"
+  },
+  {
+    "city": "saint thomas",
+    "zip_code": "17252"
+  },
+  {
+    "city": "brownstown",
+    "zip_code": "17508"
+  },
+  {
+    "city": "reinholds",
+    "zip_code": "17569"
+  },
+  {
+    "city": "lock haven",
+    "zip_code": "17745"
+  },
+  {
+    "city": "elysburg",
+    "zip_code": "17824"
+  },
+  {
+    "city": "new columbia",
+    "zip_code": "17856"
+  },
+  {
+    "city": "northumberland",
+    "zip_code": "17857"
+  },
+  {
+    "city": "aristes",
+    "zip_code": "17920"
+  },
+  {
+    "city": "friedensburg",
+    "zip_code": "17933"
+  },
+  {
+    "city": "mar lin",
+    "zip_code": "17951"
+  },
+  {
+    "city": "whitehall",
+    "zip_code": "18052"
+  },
+  {
+    "city": "green lane",
+    "zip_code": "18054"
+  },
+  {
+    "city": "pennsburg",
+    "zip_code": "18073"
+  },
+  {
+    "city": "walnutport",
+    "zip_code": "18088"
+  },
+  {
+    "city": "allentown",
+    "zip_code": "18102"
+  },
+  {
+    "city": "albrightsville",
+    "zip_code": "18210"
+  },
+  {
+    "city": "lehighton",
+    "zip_code": "18235"
+  },
+  {
+    "city": "east stroudsburg",
+    "zip_code": "18302"
+  },
+  {
+    "city": "dingmans ferry",
+    "zip_code": "18328"
+  },
+  {
+    "city": "hawley",
+    "zip_code": "18428"
+  },
+  {
+    "city": "poyntelle",
+    "zip_code": "18454"
+  },
+  {
+    "city": "pittston",
+    "zip_code": "18643"
+  },
+  {
+    "city": "sweet valley",
+    "zip_code": "18656"
+  },
+  {
+    "city": "newtown",
+    "zip_code": "18940"
+  },
+  {
+    "city": "quakertown",
+    "zip_code": "18951"
+  },
+  {
+    "city": "clifton heights",
+    "zip_code": "19018"
+  },
+  {
+    "city": "croydon",
+    "zip_code": "19021"
+  },
+  {
+    "city": "elkins park",
+    "zip_code": "19027"
+  },
+  {
+    "city": "levittown",
+    "zip_code": "19055"
+  },
+  {
+    "city": "philadelphia",
+    "zip_code": "19126"
+  },
+  {
+    "city": "brandamore",
+    "zip_code": "19316"
+  },
+  {
+    "city": "frederick",
+    "zip_code": "19435"
+  },
+  {
+    "city": "harleysville",
+    "zip_code": "19438"
+  },
+  {
+    "city": "lansdale",
+    "zip_code": "19446"
+  },
+  {
+    "city": "north wales",
+    "zip_code": "19454"
+  },
+  {
+    "city": "oaks",
+    "zip_code": "19456"
+  },
+  {
+    "city": "royersford",
+    "zip_code": "19468"
+  },
+  {
+    "city": "earlville",
+    "zip_code": "19519"
+  },
+  {
+    "city": "elverson",
+    "zip_code": "19520"
+  },
+  {
+    "city": "oley",
+    "zip_code": "19547"
+  },
+  {
+    "city": "odessa",
+    "zip_code": "19730"
+  },
+  {
+    "city": "catlett",
+    "zip_code": "20119"
+  },
+  {
+    "city": "issue",
+    "zip_code": "20645"
+  },
+  {
+    "city": "mechanicsville",
+    "zip_code": "20659"
+  },
+  {
+    "city": "galesville",
+    "zip_code": "20765"
+  },
+  {
+    "city": "garrett park",
+    "zip_code": "20896"
+  },
+  {
+    "city": "fallston",
+    "zip_code": "21047"
+  },
+  {
+    "city": "hanover",
+    "zip_code": "21076"
+  },
+  {
+    "city": "harmans",
+    "zip_code": "21077"
+  },
+  {
+    "city": "joppa",
+    "zip_code": "21085"
+  },
+  {
+    "city": "colonial beach",
+    "zip_code": "22443"
+  },
+  {
+    "city": "ophelia",
+    "zip_code": "22530"
+  },
+  {
+    "city": "sharps",
+    "zip_code": "22548"
+  },
+  {
+    "city": "boston",
+    "zip_code": "22713"
+  },
+  {
+    "city": "rixeyville",
+    "zip_code": "22737"
+  },
+  {
+    "city": "mount crawford",
+    "zip_code": "22841"
+  },
+  {
+    "city": "mount jackson",
+    "zip_code": "22842"
+  },
+  {
+    "city": "foster",
+    "zip_code": "23056"
+  },
+  {
+    "city": "grimstead",
+    "zip_code": "23064"
+  },
+  {
+    "city": "lanexa",
+    "zip_code": "23089"
+  },
+  {
+    "city": "locust hill",
+    "zip_code": "23092"
+  },
+  {
+    "city": "maidens",
+    "zip_code": "23102"
+  },
+  {
+    "city": "richmond",
+    "zip_code": "23235"
+  },
+  {
+    "city": "carson",
+    "zip_code": "23830"
+  },
+  {
+    "city": "drakes branch",
+    "zip_code": "23937"
+  },
+  {
+    "city": "roanoke",
+    "zip_code": "24015"
+  },
+  {
+    "city": "vinton",
+    "zip_code": "24179"
+  },
+  {
+    "city": "big stone gap",
+    "zip_code": "24219"
+  },
+  {
+    "city": "birchleaf",
+    "zip_code": "24220"
+  },
+  {
+    "city": "austinville",
+    "zip_code": "24312"
+  },
+  {
+    "city": "woodlawn",
+    "zip_code": "24381"
+  },
+  {
+    "city": "hot springs",
+    "zip_code": "24445"
+  },
+  {
+    "city": "lynchburg",
+    "zip_code": "24501"
+  },
+  {
+    "city": "chatham",
+    "zip_code": "24531"
+  },
+  {
+    "city": "gladstone",
+    "zip_code": "24553"
+  },
+  {
+    "city": "grundy",
+    "zip_code": "24614"
+  },
+  {
+    "city": "oakwood",
+    "zip_code": "24631"
+  },
+  {
+    "city": "swords creek",
+    "zip_code": "24649"
+  },
+  {
+    "city": "belle",
+    "zip_code": "25015"
+  },
+  {
+    "city": "costa",
+    "zip_code": "25051"
+  },
+  {
+    "city": "deep water",
+    "zip_code": "25057"
+  },
+  {
+    "city": "montgomery",
+    "zip_code": "25136"
+  },
+  {
+    "city": "nitro",
+    "zip_code": "25143"
+  },
+  {
+    "city": "red house",
+    "zip_code": "25168"
+  },
+  {
+    "city": "millstone",
+    "zip_code": "25261"
+  },
+  {
+    "city": "normantown",
+    "zip_code": "25267"
+  },
+  {
+    "city": "orma",
+    "zip_code": "25268"
+  },
+  {
+    "city": "west columbia",
+    "zip_code": "25287"
+  },
+  {
+    "city": "charleston",
+    "zip_code": "25301"
+  },
+  {
+    "city": "kenova",
+    "zip_code": "25530"
+  },
+  {
+    "city": "scott depot",
+    "zip_code": "25560"
+  },
+  {
+    "city": "yolyn",
+    "zip_code": "25654"
+  },
+  {
+    "city": "delbarton",
+    "zip_code": "25670"
+  },
+  {
+    "city": "huntington",
+    "zip_code": "25701"
+  },
+  {
+    "city": "bradley",
+    "zip_code": "25818"
+  },
+  {
+    "city": "ghent",
+    "zip_code": "25843"
+  },
+  {
+    "city": "upperglade",
+    "zip_code": "26266"
+  },
+  {
+    "city": "salem",
+    "zip_code": "26426"
+  },
+  {
+    "city": "thornton",
+    "zip_code": "26440"
+  },
+  {
+    "city": "mount nebo",
+    "zip_code": "26679"
+  },
+  {
+    "city": "elk garden",
+    "zip_code": "26717"
+  },
+  {
+    "city": "ridgeley",
+    "zip_code": "26753"
+  },
+  {
+    "city": "shanks",
+    "zip_code": "26761"
+  },
+  {
+    "city": "maysville",
+    "zip_code": "26833"
+  },
+  {
+    "city": "boonville",
+    "zip_code": "27011"
+  },
+  {
+    "city": "lowgap",
+    "zip_code": "27024"
+  },
+  {
+    "city": "pfafftown",
+    "zip_code": "27040"
+  },
+  {
+    "city": "pine hall",
+    "zip_code": "27042"
+  },
+  {
+    "city": "asheboro",
+    "zip_code": "27205"
+  },
+  {
+    "city": "bear creek",
+    "zip_code": "27207"
+  },
+  {
+    "city": "bennett",
+    "zip_code": "27208"
+  },
+  {
+    "city": "oxford",
+    "zip_code": "27565"
+  },
+  {
+    "city": "raleigh",
+    "zip_code": "27604"
+  },
+  {
+    "city": "durham",
+    "zip_code": "27701"
+  },
+  {
+    "city": "elm city",
+    "zip_code": "27822"
+  },
+  {
+    "city": "kelford",
+    "zip_code": "27847"
+  },
+  {
+    "city": "avon",
+    "zip_code": "27915"
+  },
+  {
+    "city": "albemarle",
+    "zip_code": "28001"
+  },
+  {
+    "city": "china grove",
+    "zip_code": "28023"
+  },
+  {
+    "city": "kings mountain",
+    "zip_code": "28086"
+  },
+  {
+    "city": "lilesville",
+    "zip_code": "28091"
+  },
+  {
+    "city": "polkton",
+    "zip_code": "28135"
+  },
+  {
+    "city": "troutman",
+    "zip_code": "28166"
+  },
+  {
+    "city": "waco",
+    "zip_code": "28169"
+  },
+  {
+    "city": "fayetteville",
+    "zip_code": "28305"
+  },
+  {
+    "city": "marston",
+    "zip_code": "28363"
+  },
+  {
+    "city": "parkton",
+    "zip_code": "28371"
+  },
+  {
+    "city": "saint pauls",
+    "zip_code": "28384"
+  },
+  {
+    "city": "shallotte",
+    "zip_code": "28470"
+  },
+  {
+    "city": "winnabow",
+    "zip_code": "28479"
+  },
+  {
+    "city": "newport",
+    "zip_code": "28570"
+  },
+  {
+    "city": "emerald isle",
+    "zip_code": "28594"
+  },
+  {
+    "city": "banner elk",
+    "zip_code": "28604"
+  },
+  {
+    "city": "grassy creek",
+    "zip_code": "28631"
+  },
+  {
+    "city": "maiden",
+    "zip_code": "28650"
+  },
+  {
+    "city": "almond",
+    "zip_code": "28702"
+  },
+  {
+    "city": "canton",
+    "zip_code": "28716"
+  },
+  {
+    "city": "flat rock",
+    "zip_code": "28731"
+  },
+  {
+    "city": "rosman",
+    "zip_code": "28772"
+  },
+  {
+    "city": "chapin",
+    "zip_code": "29036"
+  },
+  {
+    "city": "chappells",
+    "zip_code": "29037"
+  },
+  {
+    "city": "lamar",
+    "zip_code": "29069"
+  },
+  {
+    "city": "columbia",
+    "zip_code": "29208"
+  },
+  {
+    "city": "clifton",
+    "zip_code": "29324"
+  },
+  {
+    "city": "mount pleasant",
+    "zip_code": "29464"
+  },
+  {
+    "city": "mount pleasant",
+    "zip_code": "29466"
+  },
+  {
+    "city": "walterboro",
+    "zip_code": "29488"
+  },
+  {
+    "city": "fork",
+    "zip_code": "29543"
+  },
+  {
+    "city": "gresham",
+    "zip_code": "29546"
+  },
+  {
+    "city": "johnsonville",
+    "zip_code": "29555"
+  },
+  {
+    "city": "sellers",
+    "zip_code": "29592"
+  },
+  {
+    "city": "greenville",
+    "zip_code": "29605"
+  },
+  {
+    "city": "marietta",
+    "zip_code": "29661"
+  },
+  {
+    "city": "daufuskie island",
+    "zip_code": "29915"
+  },
+  {
+    "city": "luray",
+    "zip_code": "29932"
+  },
+  {
+    "city": "pine lake",
+    "zip_code": "30072"
+  },
+  {
+    "city": "duluth",
+    "zip_code": "30096"
+  },
+  {
+    "city": "riverdale",
+    "zip_code": "30274"
+  },
+  {
+    "city": "sargent",
+    "zip_code": "30275"
+  },
+  {
+    "city": "stockbridge",
+    "zip_code": "30281"
+  },
+  {
+    "city": "atlanta",
+    "zip_code": "30318"
+  },
+  {
+    "city": "atlanta",
+    "zip_code": "30340"
+  },
+  {
+    "city": "tarrytown",
+    "zip_code": "30470"
+  },
+  {
+    "city": "pendergrass",
+    "zip_code": "30567"
+  },
+  {
+    "city": "crandall",
+    "zip_code": "30711"
+  },
+  {
+    "city": "trion",
+    "zip_code": "30753"
+  },
+  {
+    "city": "stapleton",
+    "zip_code": "30823"
+  },
+  {
+    "city": "los angeles",
+    "zip_code": "90005"
+  },
+  {
+    "city": "los angeles",
+    "zip_code": "90006"
+  },
+  {
+    "city": "los angeles",
+    "zip_code": "90008"
+  },
+  {
+    "city": "los angeles",
+    "zip_code": "90040"
+  },
+  {
+    "city": "los angeles",
+    "zip_code": "90045"
+  },
+  {
+    "city": "santa monica",
+    "zip_code": "90401"
+  },
+  {
+    "city": "torrance",
+    "zip_code": "90504"
+  },
+  {
+    "city": "lomita",
+    "zip_code": "90717"
+  },
+  {
+    "city": "long beach",
+    "zip_code": "90808"
+  },
+  {
+    "city": "la crescenta",
+    "zip_code": "91214"
+  },
+  {
+    "city": "northridge",
+    "zip_code": "91324"
+  },
+  {
+    "city": "pacoima",
+    "zip_code": "91331"
+  },
+  {
+    "city": "woodland hills",
+    "zip_code": "91371"
+  },
+  {
+    "city": "castaic",
+    "zip_code": "91384"
+  },
+  {
+    "city": "rancho cucamonga",
+    "zip_code": "91730"
+  },
+  {
+    "city": "ontario",
+    "zip_code": "91762"
+  },
+  {
+    "city": "cardiff by the sea",
+    "zip_code": "92007"
+  },
+  {
+    "city": "vista",
+    "zip_code": "92081"
+  },
+  {
+    "city": "san diego",
+    "zip_code": "92113"
+  },
+  {
+    "city": "san diego",
+    "zip_code": "92114"
+  },
+  {
+    "city": "coronado",
+    "zip_code": "92118"
+  },
+  {
+    "city": "holtville",
+    "zip_code": "92250"
+  },
+  {
+    "city": "yucca valley",
+    "zip_code": "92284"
+  },
+  {
+    "city": "angelus oaks",
+    "zip_code": "92305"
+  },
+  {
+    "city": "shoshone",
+    "zip_code": "92384"
+  },
+  {
+    "city": "newport beach",
+    "zip_code": "92660"
+  },
+  {
+    "city": "newport beach",
+    "zip_code": "92662"
+  },
+  {
+    "city": "santa barbara",
+    "zip_code": "93103"
+  },
+  {
+    "city": "goleta",
+    "zip_code": "93117"
+  },
+  {
+    "city": "exeter",
+    "zip_code": "93221"
+  },
+  {
+    "city": "spreckels",
+    "zip_code": "93962"
+  },
+  {
+    "city": "san francisco",
+    "zip_code": "94117"
+  },
+  {
+    "city": "alamo",
+    "zip_code": "94507"
+  },
+  {
+    "city": "travis afb",
+    "zip_code": "94535"
+  },
+  {
+    "city": "el sobrante",
+    "zip_code": "94803"
+  },
+  {
+    "city": "greenbrae",
+    "zip_code": "94904"
+  },
+  {
+    "city": "rohnert park",
+    "zip_code": "94928"
+  },
+  {
+    "city": "novato",
+    "zip_code": "94947"
+  },
+  {
+    "city": "aptos",
+    "zip_code": "95003"
+  },
+  {
+    "city": "san juan bautista",
+    "zip_code": "95045"
+  },
+  {
+    "city": "saratoga",
+    "zip_code": "95070"
+  },
+  {
+    "city": "lodi",
+    "zip_code": "95242"
+  },
+  {
+    "city": "mokelumne hill",
+    "zip_code": "95245"
+  },
+  {
+    "city": "atwater",
+    "zip_code": "95301"
+  },
+  {
+    "city": "modesto",
+    "zip_code": "95355"
+  },
+  {
+    "city": "twain harte",
+    "zip_code": "95383"
+  },
+  {
+    "city": "vernalis",
+    "zip_code": "95385"
+  },
+  {
+    "city": "orick",
+    "zip_code": "95555"
+  },
+  {
+    "city": "zenia",
+    "zip_code": "95595"
+  },
+  {
+    "city": "elverta",
+    "zip_code": "95626"
+  },
+  {
+    "city": "pleasant grove",
+    "zip_code": "95668"
+  },
+  {
+    "city": "walnut grove",
+    "zip_code": "95690"
+  },
+  {
+    "city": "west sacramento",
+    "zip_code": "95691"
+  },
+  {
+    "city": "camino",
+    "zip_code": "95709"
+  },
+  {
+    "city": "rocklin",
+    "zip_code": "95765"
+  },
+  {
+    "city": "sacramento",
+    "zip_code": "95814"
+  },
+  {
+    "city": "berry creek",
+    "zip_code": "95916"
+  },
+  {
+    "city": "chico",
+    "zip_code": "95926"
+  },
+  {
+    "city": "maxwell",
+    "zip_code": "95955"
+  },
+  {
+    "city": "bella vista",
+    "zip_code": "96008"
+  },
+  {
+    "city": "igo",
+    "zip_code": "96047"
+  },
+  {
+    "city": "los molinos",
+    "zip_code": "96055"
+  },
+  {
+    "city": "millville",
+    "zip_code": "96062"
+  },
+  {
+    "city": "honolulu",
+    "zip_code": "96821"
+  },
+  {
+    "city": "santa rita",
+    "zip_code": "96915"
+  },
+  {
+    "city": "donald",
+    "zip_code": "97020"
+  },
+  {
+    "city": "deer island",
+    "zip_code": "97054"
+  },
+  {
+    "city": "rockaway beach",
+    "zip_code": "97136"
+  },
+  {
+    "city": "portland",
+    "zip_code": "97205"
+  },
+  {
+    "city": "portland",
+    "zip_code": "97230"
+  },
+  {
+    "city": "eddyville",
+    "zip_code": "97343"
+  },
+  {
+    "city": "independence",
+    "zip_code": "97351"
+  },
+  {
+    "city": "neotsu",
+    "zip_code": "97364"
+  },
+  {
+    "city": "newport",
+    "zip_code": "97365"
+  },
+  {
+    "city": "selma",
+    "zip_code": "97538"
+  },
+  {
+    "city": "camp sherman",
+    "zip_code": "97730"
+  },
+  {
+    "city": "crane",
+    "zip_code": "97732"
+  },
+  {
+    "city": "issaquah",
+    "zip_code": "98029"
+  },
+  {
+    "city": "vashon",
+    "zip_code": "98070"
+  },
+  {
+    "city": "sammamish",
+    "zip_code": "98074"
+  },
+  {
+    "city": "seattle",
+    "zip_code": "98103"
+  },
+  {
+    "city": "la conner",
+    "zip_code": "98257"
+  },
+  {
+    "city": "glenoma",
+    "zip_code": "98336"
+  },
+  {
+    "city": "kingston",
+    "zip_code": "98346"
+  },
+  {
+    "city": "claremont",
+    "zip_code": "57432"
+  },
+  {
+    "city": "sequoia national park",
+    "zip_code": "93262"
+  },
+  {
+    "city": "creston",
+    "zip_code": "93432"
+  },
+  {
+    "city": "los olivos",
+    "zip_code": "93441"
+  },
+  {
+    "city": "bishop",
+    "zip_code": "93514"
+  },
+  {
+    "city": "june lake",
+    "zip_code": "93529"
+  },
+  {
+    "city": "lancaster",
+    "zip_code": "93536"
+  },
+  {
+    "city": "lone pine",
+    "zip_code": "93545"
+  },
+  {
+    "city": "kings canyon national pk",
+    "zip_code": "93633"
+  },
+  {
+    "city": "jayuya",
+    "zip_code": "664"
+  },
+  {
+    "city": "ponce",
+    "zip_code": "717"
+  },
+  {
+    "city": "carolina",
+    "zip_code": "979"
+  },
+  {
+    "city": "chicopee",
+    "zip_code": "1022"
+  },
+  {
+    "city": "granville",
+    "zip_code": "1034"
+  },
+  {
+    "city": "hardwick",
+    "zip_code": "1037"
+  },
+  {
+    "city": "hatfield",
+    "zip_code": "1038"
+  },
+  {
+    "city": "athol",
+    "zip_code": "1331"
+  },
+  {
+    "city": "conway",
+    "zip_code": "1341"
+  },
+  {
+    "city": "leicester",
+    "zip_code": "1524"
+  },
+  {
+    "city": "haverhill",
+    "zip_code": "1832"
+  },
+  {
+    "city": "haverhill",
+    "zip_code": "1835"
+  },
+  {
+    "city": "wilmington",
+    "zip_code": "1887"
+  },
+  {
+    "city": "boston",
+    "zip_code": "2109"
+  },
+  {
+    "city": "chelsea",
+    "zip_code": "2150"
+  },
+  {
+    "city": "quincy",
+    "zip_code": "2170"
+  },
+  {
+    "city": "watertown",
+    "zip_code": "2472"
+  },
+  {
+    "city": "weston",
+    "zip_code": "2493"
+  },
+  {
+    "city": "buzzards bay",
+    "zip_code": "2532"
+  },
+  {
+    "city": "east taunton",
+    "zip_code": "2718"
+  },
+  {
+    "city": "plainville",
+    "zip_code": "2762"
+  },
+  {
+    "city": "bradford",
+    "zip_code": "2808"
+  },
+  {
+    "city": "carolina",
+    "zip_code": "2812"
+  },
+  {
+    "city": "glendale",
+    "zip_code": "2826"
+  },
+  {
+    "city": "greenville",
+    "zip_code": "2828"
+  },
+  {
+    "city": "harrisville",
+    "zip_code": "2830"
+  },
+  {
+    "city": "little compton",
+    "zip_code": "2837"
+  },
+  {
+    "city": "milford",
+    "zip_code": "3055"
+  },
+  {
+    "city": "mont vernon",
+    "zip_code": "3057"
+  },
+  {
+    "city": "bradford",
+    "zip_code": "3221"
+  },
+  {
+    "city": "bristol",
+    "zip_code": "3222"
+  },
+  {
+    "city": "hill",
+    "zip_code": "3243"
+  },
+  {
+    "city": "laconia",
+    "zip_code": "3246"
+  },
+  {
+    "city": "moultonborough",
+    "zip_code": "3254"
+  },
+  {
+    "city": "plymouth",
+    "zip_code": "3264"
+  },
+  {
+    "city": "cornish flat",
+    "zip_code": "3746"
+  },
+  {
+    "city": "enfield",
+    "zip_code": "3748"
+  },
+  {
+    "city": "barrington",
+    "zip_code": "3825"
+  },
+  {
+    "city": "kearsarge",
+    "zip_code": "3847"
+  },
+  {
+    "city": "mirror lake",
+    "zip_code": "3853"
+  },
+  {
+    "city": "long island",
+    "zip_code": "4050"
+  },
+  {
+    "city": "peaks island",
+    "zip_code": "4108"
+  },
+  {
+    "city": "gardiner",
+    "zip_code": "4345"
+  },
+  {
+    "city": "topsfield",
+    "zip_code": "4490"
+  },
+  {
+    "city": "wytopitlock",
+    "zip_code": "4497"
+  },
+  {
+    "city": "ellsworth",
+    "zip_code": "4605"
+  },
+  {
+    "city": "lincolnville",
+    "zip_code": "4849"
+  },
+  {
+    "city": "brooks",
+    "zip_code": "4921"
+  },
+  {
+    "city": "newport",
+    "zip_code": "4953"
+  },
+  {
+    "city": "north anson",
+    "zip_code": "4958"
+  },
+  {
+    "city": "oquossoc",
+    "zip_code": "4964"
+  },
+  {
+    "city": "searsmont",
+    "zip_code": "4973"
+  },
+  {
+    "city": "thetford center",
+    "zip_code": "5075"
+  },
+  {
+    "city": "tunbridge",
+    "zip_code": "5077"
+  },
+  {
+    "city": "east arlington",
+    "zip_code": "5252"
+  },
+  {
+    "city": "fairfield",
+    "zip_code": "5455"
+  },
+  {
+    "city": "whiting",
+    "zip_code": "5778"
+  },
+  {
+    "city": "concord",
+    "zip_code": "5824"
+  },
+  {
+    "city": "east berlin",
+    "zip_code": "6023"
+  },
+  {
+    "city": "farmington",
+    "zip_code": "6032"
+  },
+  {
+    "city": "north franklin",
+    "zip_code": "6254"
+  },
+  {
+    "city": "rogers",
+    "zip_code": "6263"
+  },
+  {
+    "city": "norwich",
+    "zip_code": "6360"
+  },
+  {
+    "city": "plainfield",
+    "zip_code": "6374"
+  },
+  {
+    "city": "marion",
+    "zip_code": "6444"
+  },
+  {
+    "city": "hamden",
+    "zip_code": "6517"
+  },
+  {
+    "city": "new haven",
+    "zip_code": "6519"
+  },
+  {
+    "city": "trumbull",
+    "zip_code": "6611"
+  },
+  {
+    "city": "waterbury",
+    "zip_code": "6708"
+  },
+  {
+    "city": "kent",
+    "zip_code": "6757"
+  },
+  {
+    "city": "roxbury",
+    "zip_code": "6783"
+  },
+  {
+    "city": "southport",
+    "zip_code": "6890"
+  },
+  {
+    "city": "bloomfield",
+    "zip_code": "7003"
+  },
+  {
+    "city": "passaic",
+    "zip_code": "7055"
+  },
+  {
+    "city": "jersey city",
+    "zip_code": "7306"
+  },
+  {
+    "city": "demarest",
+    "zip_code": "7627"
+  },
+  {
+    "city": "montvale",
+    "zip_code": "7645"
+  },
+  {
+    "city": "saddle brook",
+    "zip_code": "7663"
+  },
+  {
+    "city": "howell",
+    "zip_code": "7731"
+  },
+  {
+    "city": "branchville",
+    "zip_code": "7826"
+  },
+  {
+    "city": "califon",
+    "zip_code": "7830"
+  },
+  {
+    "city": "johnsonburg",
+    "zip_code": "7846"
+  },
+  {
+    "city": "schooleys mountain",
+    "zip_code": "7870"
+  },
+  {
+    "city": "peapack",
+    "zip_code": "7977"
+  },
+  {
+    "city": "gloucester city",
+    "zip_code": "8030"
+  },
+  {
+    "city": "harrisonville",
+    "zip_code": "8039"
+  },
+  {
+    "city": "pitman",
+    "zip_code": "8071"
+  },
+  {
+    "city": "delmont",
+    "zip_code": "8314"
+  },
+  {
+    "city": "estell manor",
+    "zip_code": "8319"
+  },
+  {
+    "city": "malaga",
+    "zip_code": "8328"
+  },
+  {
+    "city": "ventnor city",
+    "zip_code": "8406"
+  },
+  {
+    "city": "ocean gate",
+    "zip_code": "8740"
+  },
+  {
+    "city": "old bridge",
+    "zip_code": "8857"
+  },
+  {
+    "city": "new york",
+    "zip_code": "10032"
+  },
+  {
+    "city": "bronx",
+    "zip_code": "10451"
+  },
+  {
+    "city": "bronx",
+    "zip_code": "10458"
+  },
+  {
+    "city": "pleasantville",
+    "zip_code": "10570"
+  },
+  {
+    "city": "warwick",
+    "zip_code": "10990"
+  },
+  {
+    "city": "floral park",
+    "zip_code": "11005"
+  },
+  {
+    "city": "brooklyn",
+    "zip_code": "11203"
+  },
+  {
+    "city": "brooklyn",
+    "zip_code": "11212"
+  },
+  {
+    "city": "brooklyn",
+    "zip_code": "11221"
+  },
+  {
+    "city": "brooklyn",
+    "zip_code": "11224"
+  },
+  {
+    "city": "flushing",
+    "zip_code": "11354"
+  },
+  {
+    "city": "springfield gardens",
+    "zip_code": "11413"
+  },
+  {
+    "city": "jamaica",
+    "zip_code": "11425"
+  },
+  {
+    "city": "valley stream",
+    "zip_code": "11580"
+  },
+  {
+    "city": "blue point",
+    "zip_code": "11715"
+  },
+  {
+    "city": "kings park",
+    "zip_code": "11754"
+  },
+  {
+    "city": "east quogue",
+    "zip_code": "11942"
+  },
+  {
+    "city": "coxsackie",
+    "zip_code": "12051"
+  },
+  {
+    "city": "schaghticoke",
+    "zip_code": "12154"
+  },
+  {
+    "city": "albany",
+    "zip_code": "12208"
+  },
+  {
+    "city": "schenectady",
+    "zip_code": "12307"
+  },
+  {
+    "city": "schenectady",
+    "zip_code": "12309"
+  },
+  {
+    "city": "ashland",
+    "zip_code": "12407"
+  },
+  {
+    "city": "east durham",
+    "zip_code": "12423"
+  },
+  {
+    "city": "hurley",
+    "zip_code": "12443"
+  },
+  {
+    "city": "ulster park",
+    "zip_code": "12487"
+  },
+  {
+    "city": "wawarsing",
+    "zip_code": "12489"
+  },
+  {
+    "city": "glenham",
+    "zip_code": "12527"
+  },
+  {
+    "city": "milton",
+    "zip_code": "12547"
+  },
+  {
+    "city": "hankins",
+    "zip_code": "12741"
+  },
+  {
+    "city": "bakers mills",
+    "zip_code": "12811"
+  },
+  {
+    "city": "kattskill bay",
+    "zip_code": "12844"
+  },
+  {
+    "city": "putnam station",
+    "zip_code": "12861"
+  },
+  {
+    "city": "elizabethtown",
+    "zip_code": "12932"
+  },
+  {
+    "city": "mineville",
+    "zip_code": "12956"
+  },
+  {
+    "city": "piercefield",
+    "zip_code": "12973"
+  },
+  {
+    "city": "moravia",
+    "zip_code": "13118"
+  },
+  {
+    "city": "skaneateles",
+    "zip_code": "13152"
+  },
+  {
+    "city": "syracuse",
+    "zip_code": "13290"
+  },
+  {
+    "city": "fort plain",
+    "zip_code": "13339"
+  },
+  {
+    "city": "leonardsville",
+    "zip_code": "13364"
+  },
+  {
+    "city": "nelliston",
+    "zip_code": "13410"
+  },
+  {
+    "city": "mannsville",
+    "zip_code": "13661"
+  },
+  {
+    "city": "gilbertsville",
+    "zip_code": "13776"
+  },
+  {
+    "city": "mount upton",
+    "zip_code": "13809"
+  },
+  {
+    "city": "batavia",
+    "zip_code": "14020"
+  },
+  {
+    "city": "bowmansville",
+    "zip_code": "14026"
+  },
+  {
+    "city": "wales center",
+    "zip_code": "14169"
+  },
+  {
+    "city": "macedon",
+    "zip_code": "14502"
+  },
+  {
+    "city": "rochester",
+    "zip_code": "14626"
+  },
+  {
+    "city": "bolivar",
+    "zip_code": "14715"
+  },
+  {
+    "city": "maple springs",
+    "zip_code": "14756"
+  },
+  {
+    "city": "cameron",
+    "zip_code": "14819"
+  },
+  {
+    "city": "coopers plains",
+    "zip_code": "14827"
+  },
+  {
+    "city": "hammondsport",
+    "zip_code": "14840"
+  },
+  {
+    "city": "swain",
+    "zip_code": "14884"
+  },
+  {
+    "city": "waverly",
+    "zip_code": "14892"
+  },
+  {
+    "city": "wellsville",
+    "zip_code": "14895"
+  },
+  {
+    "city": "atlasburg",
+    "zip_code": "15004"
+  },
+  {
+    "city": "beaver falls",
+    "zip_code": "15010"
+  },
+  {
+    "city": "glenshaw",
+    "zip_code": "15116"
+  },
+  {
+    "city": "homestead",
+    "zip_code": "15120"
+  },
+  {
+    "city": "west alexander",
+    "zip_code": "15376"
+  },
+  {
+    "city": "adah",
+    "zip_code": "15410"
+  },
+  {
+    "city": "allenport",
+    "zip_code": "15412"
+  },
+  {
+    "city": "masontown",
+    "zip_code": "15461"
+  },
+  {
+    "city": "smithfield",
+    "zip_code": "15478"
+  },
+  {
+    "city": "everett",
+    "zip_code": "15537"
+  },
+  {
+    "city": "friedens",
+    "zip_code": "15541"
+  },
+  {
+    "city": "rockwood",
+    "zip_code": "15557"
+  },
+  {
+    "city": "springs",
+    "zip_code": "15562"
+  },
+  {
+    "city": "north apollo",
+    "zip_code": "15673"
+  },
+  {
+    "city": "de lancey",
+    "zip_code": "15733"
+  },
+  {
+    "city": "ringgold",
+    "zip_code": "15770"
+  },
+  {
+    "city": "seward",
+    "zip_code": "15954"
+  },
+  {
+    "city": "prospect",
+    "zip_code": "16052"
+  },
+  {
+    "city": "zelienople",
+    "zip_code": "16063"
+  },
+  {
+    "city": "volant",
+    "zip_code": "16156"
+  },
+  {
+    "city": "cadogan",
+    "zip_code": "16212"
+  },
+  {
+    "city": "pleasantville",
+    "zip_code": "16341"
+  },
+  {
+    "city": "russell",
+    "zip_code": "16345"
+  },
+  {
+    "city": "utica",
+    "zip_code": "16362"
+  },
+  {
+    "city": "girard",
+    "zip_code": "16417"
+  },
+  {
+    "city": "erie",
+    "zip_code": "16546"
+  },
+  {
+    "city": "alexandria",
+    "zip_code": "16611"
+  },
+  {
+    "city": "beccaria",
+    "zip_code": "16616"
+  },
+  {
+    "city": "newry",
+    "zip_code": "16665"
+  },
+  {
+    "city": "lamar",
+    "zip_code": "16848"
+  },
+  {
+    "city": "madisonburg",
+    "zip_code": "16852"
+  },
+  {
+    "city": "lawrenceville",
+    "zip_code": "16929"
+  },
+  {
+    "city": "grantham",
+    "zip_code": "17027"
+  },
+  {
+    "city": "grantville",
+    "zip_code": "17028"
+  },
+  {
+    "city": "palmyra",
+    "zip_code": "17078"
+  },
+  {
+    "city": "hanover",
+    "zip_code": "17331"
+  },
+  {
+    "city": "mcsherrystown",
+    "zip_code": "17344"
+  },
+  {
+    "city": "railroad",
+    "zip_code": "17355"
+  },
+  {
+    "city": "wrightsville",
+    "zip_code": "17368"
+  },
+  {
+    "city": "east earl",
+    "zip_code": "17519"
+  },
+  {
+    "city": "ephrata",
+    "zip_code": "17522"
+  },
+  {
+    "city": "smoketown",
+    "zip_code": "17576"
+  },
+  {
+    "city": "lancaster",
+    "zip_code": "17606"
+  },
+  {
+    "city": "jersey shore",
+    "zip_code": "17740"
+  },
+  {
+    "city": "potts grove",
+    "zip_code": "17865"
+  },
+  {
+    "city": "white deer",
+    "zip_code": "17887"
+  },
+  {
+    "city": "winfield",
+    "zip_code": "17889"
+  },
+  {
+    "city": "bethlehem",
+    "zip_code": "18020"
+  },
+  {
+    "city": "breinigsville",
+    "zip_code": "18031"
+  },
+  {
+    "city": "delaware water gap",
+    "zip_code": "18327"
+  },
+  {
+    "city": "mount pocono",
+    "zip_code": "18344"
+  },
+  {
+    "city": "lakeville",
+    "zip_code": "18438"
+  },
+  {
+    "city": "scranton",
+    "zip_code": "18504"
+  },
+  {
+    "city": "scranton",
+    "zip_code": "18510"
+  },
+  {
+    "city": "shavertown",
+    "zip_code": "18708"
+  },
+  {
+    "city": "chalfont",
+    "zip_code": "18914"
+  },
+  {
+    "city": "upper black eddy",
+    "zip_code": "18972"
+  },
+  {
+    "city": "warrington",
+    "zip_code": "18976"
+  },
+  {
+    "city": "bryn athyn",
+    "zip_code": "19009"
+  },
+  {
+    "city": "horsham",
+    "zip_code": "19044"
+  },
+  {
+    "city": "villanova",
+    "zip_code": "19085"
+  },
+  {
+    "city": "philadelphia",
+    "zip_code": "19131"
+  },
+  {
+    "city": "plymouth meeting",
+    "zip_code": "19462"
+  },
+  {
+    "city": "blandon",
+    "zip_code": "19510"
+  },
+  {
+    "city": "cheswold",
+    "zip_code": "19936"
+  },
+  {
+    "city": "marydel",
+    "zip_code": "19964"
+  },
+  {
+    "city": "washington",
+    "zip_code": "20009"
+  },
+  {
+    "city": "manassas",
+    "zip_code": "20110"
+  },
+  {
+    "city": "herndon",
+    "zip_code": "20171"
+  },
+  {
+    "city": "nokesville",
+    "zip_code": "20181"
+  },
+  {
+    "city": "washington",
+    "zip_code": "20245"
+  },
+  {
+    "city": "washington",
+    "zip_code": "20553"
+  },
+  {
+    "city": "charlotte hall",
+    "zip_code": "20622"
+  },
+  {
+    "city": "potomac",
+    "zip_code": "20854"
+  },
+  {
+    "city": "spencerville",
+    "zip_code": "20868"
+  },
+  {
+    "city": "forest hill",
+    "zip_code": "21050"
+  },
+  {
+    "city": "marriottsville",
+    "zip_code": "21104"
+  },
+  {
+    "city": "baltimore",
+    "zip_code": "21215"
+  },
+  {
+    "city": "towson",
+    "zip_code": "21252"
+  },
+  {
+    "city": "annapolis",
+    "zip_code": "21409"
+  },
+  {
+    "city": "flintstone",
+    "zip_code": "21530"
+  },
+  {
+    "city": "clear spring",
+    "zip_code": "21722"
+  },
+  {
+    "city": "jefferson",
+    "zip_code": "21755"
+  },
+  {
+    "city": "hebron",
+    "zip_code": "21830"
+  },
+  {
+    "city": "nanticoke",
+    "zip_code": "21840"
+  },
+  {
+    "city": "dumfries",
+    "zip_code": "22025"
+  },
+  {
+    "city": "fairfax",
+    "zip_code": "22035"
+  },
+  {
+    "city": "fredericksburg",
+    "zip_code": "22405"
+  },
+  {
+    "city": "hustle",
+    "zip_code": "22476"
+  },
+  {
+    "city": "winchester",
+    "zip_code": "22601"
+  },
+  {
+    "city": "gordonsville",
+    "zip_code": "22942"
+  },
+  {
+    "city": "cobbs creek",
+    "zip_code": "23035"
+  },
+  {
+    "city": "hanover",
+    "zip_code": "23069"
+  },
+  {
+    "city": "hudgins",
+    "zip_code": "23076"
+  },
+  {
+    "city": "king william",
+    "zip_code": "23086"
+  },
+  {
+    "city": "wake",
+    "zip_code": "23176"
+  },
+  {
+    "city": "suffolk",
+    "zip_code": "23437"
+  },
+  {
+    "city": "hampton",
+    "zip_code": "23666"
+  },
+  {
+    "city": "portsmouth",
+    "zip_code": "23701"
+  },
+  {
+    "city": "wakefield",
+    "zip_code": "23888"
+  },
+  {
+    "city": "boydton",
+    "zip_code": "23917"
+  },
+  {
+    "city": "green bay",
+    "zip_code": "23942"
+  },
+  {
+    "city": "keysville",
+    "zip_code": "23947"
+  },
+  {
+    "city": "copper hill",
+    "zip_code": "24079"
+  },
+  {
+    "city": "daleville",
+    "zip_code": "24083"
+  },
+  {
+    "city": "narrows",
+    "zip_code": "24124"
+  },
+  {
+    "city": "shawsville",
+    "zip_code": "24162"
+  },
+  {
+    "city": "keokee",
+    "zip_code": "24265"
+  },
+  {
+    "city": "atkins",
+    "zip_code": "24311"
+  },
+  {
+    "city": "barren springs",
+    "zip_code": "24313"
+  },
+  {
+    "city": "bastian",
+    "zip_code": "24314"
+  },
+  {
+    "city": "cana",
+    "zip_code": "24317"
+  },
+  {
+    "city": "fancy gap",
+    "zip_code": "24328"
+  },
+  {
+    "city": "wytheville",
+    "zip_code": "24382"
+  },
+  {
+    "city": "halifax",
+    "zip_code": "24558"
+  },
+  {
+    "city": "monroe",
+    "zip_code": "24574"
+  },
+  {
+    "city": "norwood",
+    "zip_code": "24581"
+  },
+  {
+    "city": "cucumber",
+    "zip_code": "24826"
+  },
+  {
+    "city": "simon",
+    "zip_code": "24882"
+  },
+  {
+    "city": "alum creek",
+    "zip_code": "25003"
+  },
+  {
+    "city": "bancroft",
+    "zip_code": "25011"
+  },
+  {
+    "city": "henderson",
+    "zip_code": "25106"
+  },
+  {
+    "city": "twilight",
+    "zip_code": "25204"
+  },
+  {
+    "city": "shenandoah junction",
+    "zip_code": "25442"
+  },
+  {
+    "city": "barboursville",
+    "zip_code": "25504"
+  },
+  {
+    "city": "mount gay",
+    "zip_code": "25637"
+  },
+  {
+    "city": "wharncliffe",
+    "zip_code": "25651"
+  },
+  {
+    "city": "huntington",
+    "zip_code": "25703"
+  },
+  {
+    "city": "fayetteville",
+    "zip_code": "25840"
+  },
+  {
+    "city": "flat top",
+    "zip_code": "25841"
+  },
+  {
+    "city": "pax",
+    "zip_code": "25904"
+  },
+  {
+    "city": "new martinsville",
+    "zip_code": "26155"
+  },
+  {
+    "city": "hambleton",
+    "zip_code": "26269"
+  },
+  {
+    "city": "morgantown",
+    "zip_code": "26505"
+  },
+  {
+    "city": "baxter",
+    "zip_code": "26560"
+  },
+  {
+    "city": "cooleemee",
+    "zip_code": "27014"
+  },
+  {
+    "city": "mount airy",
+    "zip_code": "27030"
+  },
+  {
+    "city": "winston salem",
+    "zip_code": "27110"
+  },
+  {
+    "city": "high point",
+    "zip_code": "27262"
+  },
+  {
+    "city": "ramseur",
+    "zip_code": "27316"
+  },
+  {
+    "city": "greensboro",
+    "zip_code": "27410"
+  },
+  {
+    "city": "franklinton",
+    "zip_code": "27525"
+  },
+  {
+    "city": "apex",
+    "zip_code": "27539"
+  },
+  {
+    "city": "wake forest",
+    "zip_code": "27587"
+  },
+  {
+    "city": "castalia",
+    "zip_code": "27816"
+  },
+  {
+    "city": "cofield",
+    "zip_code": "27922"
+  },
+  {
+    "city": "gastonia",
+    "zip_code": "28054"
+  },
+  {
+    "city": "gastonia",
+    "zip_code": "28056"
+  },
+  {
+    "city": "lowell",
+    "zip_code": "28098"
+  },
+  {
+    "city": "charlotte",
+    "zip_code": "28278"
+  },
+  {
+    "city": "wilmington",
+    "zip_code": "28401"
+  },
+  {
+    "city": "wilmington",
+    "zip_code": "28412"
+  },
+  {
+    "city": "burgaw",
+    "zip_code": "28425"
+  },
+  {
+    "city": "holly ridge",
+    "zip_code": "28445"
+  },
+  {
+    "city": "wrightsville beach",
+    "zip_code": "28480"
+  },
+  {
+    "city": "camp lejeune",
+    "zip_code": "28547"
+  },
+  {
+    "city": "pollocksville",
+    "zip_code": "28573"
+  },
+  {
+    "city": "richlands",
+    "zip_code": "28574"
+  },
+  {
+    "city": "jonesville",
+    "zip_code": "28642"
+  },
+  {
+    "city": "columbus",
+    "zip_code": "28722"
+  },
+  {
+    "city": "brasstown",
+    "zip_code": "28902"
+  },
+  {
+    "city": "marble",
+    "zip_code": "28905"
+  },
+  {
+    "city": "heath springs",
+    "zip_code": "29058"
+  },
+  {
+    "city": "lake view",
+    "zip_code": "29563"
+  },
+  {
+    "city": "anderson",
+    "zip_code": "29626"
+  },
+  {
+    "city": "greer",
+    "zip_code": "29651"
+  },
+  {
+    "city": "warrenville",
+    "zip_code": "29851"
+  },
+  {
+    "city": "roswell",
+    "zip_code": "30075"
+  },
+  {
+    "city": "temple",
+    "zip_code": "30179"
+  },
+  {
+    "city": "atlanta",
+    "zip_code": "30314"
+  },
+  {
+    "city": "atlanta",
+    "zip_code": "30360"
+  },
+  {
+    "city": "gainesville",
+    "zip_code": "30504"
+  },
+  {
+    "city": "cleveland",
+    "zip_code": "30528"
+  },
+  {
+    "city": "jefferson",
+    "zip_code": "30549"
+  },
+  {
+    "city": "bishop",
+    "zip_code": "30621"
+  },
+  {
+    "city": "white plains",
+    "zip_code": "30678"
+  },
+  {
+    "city": "graysville",
+    "zip_code": "30726"
+  },
+  {
+    "city": "mcrae helena",
+    "zip_code": "31037"
+  },
+  {
+    "city": "shady dale",
+    "zip_code": "31085"
+  },
+  {
+    "city": "macon",
+    "zip_code": "31210"
+  },
+  {
+    "city": "townsend",
+    "zip_code": "31331"
+  },
+  {
+    "city": "savannah",
+    "zip_code": "31415"
+  },
+  {
+    "city": "saint marys",
+    "zip_code": "31558"
+  },
+  {
+    "city": "shiloh",
+    "zip_code": "31826"
+  },
+  {
+    "city": "warm springs",
+    "zip_code": "31830"
+  },
+  {
+    "city": "west point",
+    "zip_code": "31833"
+  },
+  {
+    "city": "fort benning",
+    "zip_code": "31905"
+  },
+  {
+    "city": "satsuma",
+    "zip_code": "32189"
+  },
+  {
+    "city": "jacksonville",
+    "zip_code": "32204"
+  },
+  {
+    "city": "jacksonville",
+    "zip_code": "32209"
+  },
+  {
+    "city": "jacksonville",
+    "zip_code": "32221"
+  },
+  {
+    "city": "lamont",
+    "zip_code": "32336"
+  },
+  {
+    "city": "graceville",
+    "zip_code": "32440"
+  },
+  {
+    "city": "molino",
+    "zip_code": "32577"
+  },
+  {
+    "city": "shalimar",
+    "zip_code": "32579"
+  },
+  {
+    "city": "anthony",
+    "zip_code": "32617"
+  },
+  {
+    "city": "morriston",
+    "zip_code": "32668"
+  },
+  {
+    "city": "christmas",
+    "zip_code": "32709"
+  },
+  {
+    "city": "deland",
+    "zip_code": "32724"
+  },
+  {
+    "city": "orlando",
+    "zip_code": "32829"
+  },
+  {
+    "city": "orlando",
+    "zip_code": "32837"
+  },
+  {
+    "city": "cocoa",
+    "zip_code": "32926"
+  },
+  {
+    "city": "fellsmere",
+    "zip_code": "32948"
+  },
+  {
+    "city": "pembroke pines",
+    "zip_code": "33028"
+  },
+  {
+    "city": "key west",
+    "zip_code": "33040"
+  },
+  {
+    "city": "coral springs",
+    "zip_code": "33071"
+  },
+  {
+    "city": "miami beach",
+    "zip_code": "33109"
+  },
+  {
+    "city": "miami beach",
+    "zip_code": "33154"
+  },
+  {
+    "city": "fort lauderdale",
+    "zip_code": "33306"
+  },
+  {
+    "city": "lake worth",
+    "zip_code": "33461"
+  },
+  {
+    "city": "dover",
+    "zip_code": "33527"
+  },
+  {
+    "city": "wesley chapel",
+    "zip_code": "33544"
+  },
+  {
+    "city": "lakeland",
+    "zip_code": "33812"
+  },
+  {
+    "city": "punta gorda",
+    "zip_code": "33983"
+  },
+  {
+    "city": "naples",
+    "zip_code": "34114"
+  },
+  {
+    "city": "ocala",
+    "zip_code": "34470"
+  },
+  {
+    "city": "silver springs",
+    "zip_code": "34488"
+  },
+  {
+    "city": "groveland",
+    "zip_code": "34736"
+  },
+  {
+    "city": "kissimmee",
+    "zip_code": "34746"
+  },
+  {
+    "city": "saint cloud",
+    "zip_code": "34769"
+  },
+  {
+    "city": "okeechobee",
+    "zip_code": "34974"
+  },
+  {
+    "city": "arab",
+    "zip_code": "35016"
+  },
+  {
+    "city": "centreville",
+    "zip_code": "35042"
+  },
+  {
+    "city": "hanceville",
+    "zip_code": "35077"
+  },
+  {
+    "city": "leeds",
+    "zip_code": "35094"
+  },
+  {
+    "city": "locust fork",
+    "zip_code": "35097"
+  },
+  {
+    "city": "odenville",
+    "zip_code": "35120"
+  },
+  {
+    "city": "sayre",
+    "zip_code": "35139"
+  },
+  {
+    "city": "birmingham",
+    "zip_code": "35203"
+  },
+  {
+    "city": "birmingham",
+    "zip_code": "35204"
+  },
+  {
+    "city": "birmingham",
+    "zip_code": "35235"
+  },
+  {
+    "city": "akron",
+    "zip_code": "35441"
+  },
+  {
+    "city": "belk",
+    "zip_code": "35545"
+  },
+  {
+    "city": "fayette",
+    "zip_code": "35555"
+  },
+  {
+    "city": "florence",
+    "zip_code": "35630"
+  },
+  {
+    "city": "florence",
+    "zip_code": "35633"
+  },
+  {
+    "city": "collinsville",
+    "zip_code": "35961"
+  },
+  {
+    "city": "fort deposit",
+    "zip_code": "36032"
+  },
+  {
+    "city": "troy",
+    "zip_code": "36081"
+  },
+  {
+    "city": "eastaboga",
+    "zip_code": "36260"
+  },
+  {
+    "city": "ohatchee",
+    "zip_code": "36271"
+  },
+  {
+    "city": "headland",
+    "zip_code": "36345"
+  },
+  {
+    "city": "ozark",
+    "zip_code": "36360"
+  },
+  {
+    "city": "samson",
+    "zip_code": "36477"
+  },
+  {
+    "city": "jackson",
+    "zip_code": "36545"
+  },
+  {
+    "city": "magnolia springs",
+    "zip_code": "36555"
+  },
+  {
+    "city": "lowndesboro",
+    "zip_code": "36752"
+  },
+  {
+    "city": "mcwilliams",
+    "zip_code": "36753"
+  },
+  {
+    "city": "phenix city",
+    "zip_code": "36869"
+  },
+  {
+    "city": "dowelltown",
+    "zip_code": "37059"
+  },
+  {
+    "city": "goodlettsville",
+    "zip_code": "37072"
+  },
+  {
+    "city": "murfreesboro",
+    "zip_code": "37130"
+  },
+  {
+    "city": "red boiling springs",
+    "zip_code": "37150"
+  },
+  {
+    "city": "nashville",
+    "zip_code": "37215"
+  },
+  {
+    "city": "etowah",
+    "zip_code": "37331"
+  },
+  {
+    "city": "guild",
+    "zip_code": "37340"
+  },
+  {
+    "city": "spring city",
+    "zip_code": "37381"
+  },
+  {
+    "city": "afton",
+    "zip_code": "37616"
+  },
+  {
+    "city": "corryton",
+    "zip_code": "37721"
+  },
+  {
+    "city": "speedwell",
+    "zip_code": "37870"
+  },
+  {
+    "city": "sweetwater",
+    "zip_code": "37874"
+  },
+  {
+    "city": "knoxville",
+    "zip_code": "37918"
+  },
+  {
+    "city": "knoxville",
+    "zip_code": "37919"
+  },
+  {
+    "city": "ripley",
+    "zip_code": "38063"
+  },
+  {
+    "city": "memphis",
+    "zip_code": "38126"
+  },
+  {
+    "city": "memphis",
+    "zip_code": "38131"
+  },
+  {
+    "city": "greenfield",
+    "zip_code": "38230"
+  },
+  {
+    "city": "westport",
+    "zip_code": "38387"
+  },
+  {
+    "city": "five points",
+    "zip_code": "38457"
+  },
+  {
+    "city": "loretto",
+    "zip_code": "38469"
+  },
+  {
+    "city": "allardt",
+    "zip_code": "38504"
+  },
+  {
+    "city": "hickory flat",
+    "zip_code": "38633"
+  },
+  {
+    "city": "lula",
+    "zip_code": "38644"
+  },
+  {
+    "city": "sardis",
+    "zip_code": "38666"
+  },
+  {
+    "city": "greenville",
+    "zip_code": "38701"
+  },
+  {
+    "city": "doddsville",
+    "zip_code": "38736"
+  },
+  {
+    "city": "tupelo",
+    "zip_code": "38801"
+  },
+  {
+    "city": "houlka",
+    "zip_code": "38850"
+  },
+  {
+    "city": "water valley",
+    "zip_code": "38965"
+  },
+  {
+    "city": "vaiden",
+    "zip_code": "39176"
+  },
+  {
+    "city": "jackson",
+    "zip_code": "39213"
+  },
+  {
+    "city": "ovett",
+    "zip_code": "39464"
+  },
+  {
+    "city": "waveland",
+    "zip_code": "39576"
+  },
+  {
+    "city": "columbus",
+    "zip_code": "39705"
+  },
+  {
+    "city": "west point",
+    "zip_code": "39773"
+  },
+  {
+    "city": "cuthbert",
+    "zip_code": "39840"
+  },
+  {
+    "city": "crestwood",
+    "zip_code": "40014"
+  },
+  {
+    "city": "loretto",
+    "zip_code": "40037"
+  },
+  {
+    "city": "mcdaniels",
+    "zip_code": "40152"
+  },
+  {
+    "city": "rhodelia",
+    "zip_code": "40161"
+  },
+  {
+    "city": "louisville",
+    "zip_code": "40215"
+  },
+  {
+    "city": "louisville",
+    "zip_code": "40243"
+  },
+  {
+    "city": "harrodsburg",
+    "zip_code": "40330"
+  },
+  {
+    "city": "hope",
+    "zip_code": "40334"
+  },
+  {
+    "city": "keene",
+    "zip_code": "40339"
+  },
+  {
+    "city": "wellington",
+    "zip_code": "40387"
+  },
+  {
+    "city": "gray hawk",
+    "zip_code": "40434"
+  },
+  {
+    "city": "hustonville",
+    "zip_code": "40437"
+  },
+  {
+    "city": "woodbine",
+    "zip_code": "40771"
+  },
+  {
+    "city": "eolia",
+    "zip_code": "40826"
+  },
+  {
+    "city": "wallins creek",
+    "zip_code": "40873"
+  },
+  {
+    "city": "mary alice",
+    "zip_code": "40964"
+  },
+  {
+    "city": "sextons creek",
+    "zip_code": "40983"
+  },
+  {
+    "city": "corinth",
+    "zip_code": "41010"
+  },
+  {
+    "city": "ewing",
+    "zip_code": "41039"
+  },
+  {
+    "city": "hebron",
+    "zip_code": "41048"
+  },
+  {
+    "city": "newport",
+    "zip_code": "41076"
+  },
+  {
+    "city": "petersburg",
+    "zip_code": "41080"
+  },
+  {
+    "city": "keaton",
+    "zip_code": "41226"
+  },
+  {
+    "city": "rousseau",
+    "zip_code": "41366"
+  },
+  {
+    "city": "bypro",
+    "zip_code": "41612"
+  },
+  {
+    "city": "lackey",
+    "zip_code": "41643"
+  },
+  {
+    "city": "busy",
+    "zip_code": "41723"
+  },
+  {
+    "city": "slemp",
+    "zip_code": "41763"
+  },
+  {
+    "city": "yeaddiss",
+    "zip_code": "41777"
+  },
+  {
+    "city": "hindman",
+    "zip_code": "41822"
+  },
+  {
+    "city": "burna",
+    "zip_code": "42028"
+  },
+  {
+    "city": "gilbertsville",
+    "zip_code": "42044"
+  },
+  {
+    "city": "kuttawa",
+    "zip_code": "42055"
+  },
+  {
+    "city": "bowling green",
+    "zip_code": "42103"
+  },
+  {
+    "city": "gamaliel",
+    "zip_code": "42140"
+  },
+  {
+    "city": "bee spring",
+    "zip_code": "42207"
+  },
+  {
+    "city": "cerulean",
+    "zip_code": "42215"
+  },
+  {
+    "city": "beech creek",
+    "zip_code": "42321"
+  },
+  {
+    "city": "lewisport",
+    "zip_code": "42351"
+  },
+  {
+    "city": "dawson springs",
+    "zip_code": "42408"
+  },
+  {
+    "city": "morganfield",
+    "zip_code": "42437"
+  },
+  {
+    "city": "mortons gap",
+    "zip_code": "42440"
+  },
+  {
+    "city": "burnside",
+    "zip_code": "42519"
+  },
+  {
+    "city": "dunnville",
+    "zip_code": "42528"
+  },
+  {
+    "city": "alexandria",
+    "zip_code": "43001"
+  },
+  {
+    "city": "danville",
+    "zip_code": "43014"
+  },
+  {
+    "city": "radnor",
+    "zip_code": "43066"
+  },
+  {
+    "city": "south bloomingville",
+    "zip_code": "43152"
+  },
+  {
+    "city": "marengo",
+    "zip_code": "43334"
+  },
+  {
+    "city": "fremont",
+    "zip_code": "43420"
+  },
+  {
+    "city": "fayette",
+    "zip_code": "43521"
+  },
+  {
+    "city": "mcclure",
+    "zip_code": "43534"
+  },
+  {
+    "city": "sherwood",
+    "zip_code": "43556"
+  },
+  {
+    "city": "brownsville",
+    "zip_code": "43721"
+  },
+  {
+    "city": "moxahala",
+    "zip_code": "43761"
+  },
+  {
+    "city": "conesville",
+    "zip_code": "43811"
+  },
+  {
+    "city": "sardis",
+    "zip_code": "43946"
+  },
+  {
+    "city": "north ridgeville",
+    "zip_code": "44039"
+  },
+  {
+    "city": "mentor",
+    "zip_code": "44060"
+  },
+  {
+    "city": "cleveland",
+    "zip_code": "44126"
+  },
+  {
+    "city": "cleveland",
+    "zip_code": "44134"
+  },
+  {
+    "city": "cleveland",
+    "zip_code": "44135"
+  },
+  {
+    "city": "west salem",
+    "zip_code": "44287"
+  },
+  {
+    "city": "berlin center",
+    "zip_code": "44401"
+  },
+  {
+    "city": "middlebranch",
+    "zip_code": "44652"
+  },
+  {
+    "city": "midvale",
+    "zip_code": "44653"
+  },
+  {
+    "city": "butler",
+    "zip_code": "44822"
+  },
+  {
+    "city": "sullivan",
+    "zip_code": "44880"
+  },
+  {
+    "city": "tiffin",
+    "zip_code": "44883"
+  },
+  {
+    "city": "addyston",
+    "zip_code": "45001"
+  },
+  {
+    "city": "middletown",
+    "zip_code": "45042"
+  },
+  {
+    "city": "mount saint joseph",
+    "zip_code": "45051"
+  },
+  {
+    "city": "georgetown",
+    "zip_code": "45121"
+  },
+  {
+    "city": "cincinnati",
+    "zip_code": "45236"
+  },
+  {
+    "city": "ansonia",
+    "zip_code": "45303"
+  },
+  {
+    "city": "kettlersville",
+    "zip_code": "45336"
+  },
+  {
+    "city": "lewisburg",
+    "zip_code": "45338"
+  },
+  {
+    "city": "osgood",
+    "zip_code": "45351"
+  },
+  {
+    "city": "dayton",
+    "zip_code": "45415"
+  },
+  {
+    "city": "richmond dale",
+    "zip_code": "45673"
+  },
+  {
+    "city": "little hocking",
+    "zip_code": "45742"
+  },
+  {
+    "city": "macksburg",
+    "zip_code": "45746"
+  },
+  {
+    "city": "vincent",
+    "zip_code": "45784"
+  },
+  {
+    "city": "whipple",
+    "zip_code": "45788"
+  },
+  {
+    "city": "arlington",
+    "zip_code": "45814"
+  },
+  {
+    "city": "cecil",
+    "zip_code": "45821"
+  },
+  {
+    "city": "coldwater",
+    "zip_code": "45828"
+  },
+  {
+    "city": "pandora",
+    "zip_code": "45877"
+  },
+  {
+    "city": "anderson",
+    "zip_code": "46016"
+  },
+  {
+    "city": "markleville",
+    "zip_code": "46056"
+  },
+  {
+    "city": "noblesville",
+    "zip_code": "46060"
+  },
+  {
+    "city": "lizton",
+    "zip_code": "46149"
+  },
+  {
+    "city": "indianapolis",
+    "zip_code": "46256"
+  },
+  {
+    "city": "hammond",
+    "zip_code": "46324"
+  },
+  {
+    "city": "middlebury",
+    "zip_code": "46540"
+  },
+  {
+    "city": "south bend",
+    "zip_code": "46637"
+  },
+  {
+    "city": "garrett",
+    "zip_code": "46738"
+  },
+  {
+    "city": "howe",
+    "zip_code": "46746"
+  },
+  {
+    "city": "larwill",
+    "zip_code": "46764"
+  },
+  {
+    "city": "pleasant lake",
+    "zip_code": "46779"
+  },
+  {
+    "city": "fairmount",
+    "zip_code": "46928"
+  },
+  {
+    "city": "bath",
+    "zip_code": "47010"
+  },
+  {
+    "city": "charlestown",
+    "zip_code": "47111"
+  },
+  {
+    "city": "jeffersonville",
+    "zip_code": "47130"
+  },
+  {
+    "city": "saint paul",
+    "zip_code": "47272"
+  },
+  {
+    "city": "muncie",
+    "zip_code": "47302"
+  },
+  {
+    "city": "williamsburg",
+    "zip_code": "47393"
+  },
+  {
+    "city": "ellettsville",
+    "zip_code": "47429"
+  },
+  {
+    "city": "lyons",
+    "zip_code": "47443"
+  },
+  {
+    "city": "owensburg",
+    "zip_code": "47453"
+  },
+  {
+    "city": "evansville",
+    "zip_code": "47713"
+  },
+  {
+    "city": "evansville",
+    "zip_code": "47725"
+  },
+  {
+    "city": "terre haute",
+    "zip_code": "47802"
+  },
+  {
+    "city": "lafayette",
+    "zip_code": "47909"
+  },
+  {
+    "city": "attica",
+    "zip_code": "47918"
+  },
+  {
+    "city": "buck creek",
+    "zip_code": "47924"
+  },
+  {
+    "city": "reynolds",
+    "zip_code": "47980"
+  },
+  {
+    "city": "state line",
+    "zip_code": "47982"
+  },
+  {
+    "city": "wingate",
+    "zip_code": "47994"
+  },
+  {
+    "city": "clinton township",
+    "zip_code": "48038"
+  },
+  {
+    "city": "memphis",
+    "zip_code": "48041"
+  },
+  {
+    "city": "huntington woods",
+    "zip_code": "48070"
+  },
+  {
+    "city": "ray",
+    "zip_code": "48096"
+  },
+  {
+    "city": "erie",
+    "zip_code": "48133"
+  },
+  {
+    "city": "wyandotte",
+    "zip_code": "48192"
+  },
+  {
+    "city": "goodrich",
+    "zip_code": "48438"
+  },
+  {
+    "city": "ubly",
+    "zip_code": "48475"
+  },
+  {
+    "city": "saginaw",
+    "zip_code": "48602"
+  },
+  {
+    "city": "houghton lake",
+    "zip_code": "48629"
+  },
+  {
+    "city": "carrollton",
+    "zip_code": "48724"
+  },
+  {
+    "city": "fairgrove",
+    "zip_code": "48733"
+  },
+  {
+    "city": "gagetown",
+    "zip_code": "48735"
+  },
+  {
+    "city": "harrisville",
+    "zip_code": "48740"
+  },
+  {
+    "city": "cohoctah",
+    "zip_code": "48816"
+  },
+  {
+    "city": "dimondale",
+    "zip_code": "48821"
+  },
+  {
+    "city": "howell",
+    "zip_code": "48843"
+  },
+  {
+    "city": "morrice",
+    "zip_code": "48857"
+  },
+  {
+    "city": "saranac",
+    "zip_code": "48881"
+  },
+  {
+    "city": "sunfield",
+    "zip_code": "48890"
+  },
+  {
+    "city": "galesburg",
+    "zip_code": "49053"
+  },
+  {
+    "city": "marshall",
+    "zip_code": "49068"
+  },
+  {
+    "city": "rives junction",
+    "zip_code": "49277"
+  },
+  {
+    "city": "rodney",
+    "zip_code": "49342"
+  },
+  {
+    "city": "douglas",
+    "zip_code": "49406"
+  },
+  {
+    "city": "wellston",
+    "zip_code": "49689"
+  },
+  {
+    "city": "frederic",
+    "zip_code": "49733"
+  },
+  {
+    "city": "topinabee",
+    "zip_code": "49791"
+  },
+  {
+    "city": "carney",
+    "zip_code": "49812"
+  }
+]
