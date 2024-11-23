@@ -15,8 +15,7 @@ function splitJsonFile(inputFile, outputPrefix, chunkSize) {
     // Split the data into chunks and write to files
     for (let i = 0; i < 16; i++) {
       const chunk = jsonData.slice(i * chunkSize, (i + 1) * chunkSize);
-      const type = i < 8 ? "source" : "destination"; // First 8 files are source, next 8 are destination
-      const fileName = `${outputPrefix}_${type}_${i + 1}.json`;
+      const fileName = `./bb/city_code_${i + 1}.json`;
 
       // Write the chunk to a new file
       fs.writeFileSync(fileName, JSON.stringify(chunk, null, 2), "utf-8");
@@ -30,7 +29,7 @@ function splitJsonFile(inputFile, outputPrefix, chunkSize) {
 }
 
 // Input JSON file and settings
-const inputFile = "./today/city_zip.json"; // Replace with your actual file path
+const inputFile = "./today/city_zip_new.json"; // Replace with your actual file path
 const outputPrefix = "newCityZipData"; // Prefix for output files
 const chunkSize = 1834; // Number of entries per file
 

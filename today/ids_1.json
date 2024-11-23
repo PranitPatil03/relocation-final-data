@@ -1,0 +1,65 @@
+[
+  {
+    "city": "stanley",
+    "zip_code": "58784",
+    "placeMasterId": "P02500000FsoG9YAsFKGNfvMcsFOZbQTXR1eVIqd",
+    "placeName": "stanley",
+    "state": "NC"
+  },
+  {
+    "city": "fromberg",
+    "zip_code": "59029",
+    "placeMasterId": "P02500000FsoFpHz4b2Is6cbsmwLEDrrvREzAXH2",
+    "placeName": "fromberg",
+    "state": "MT"
+  },
+  {
+    "city": "livingston",
+    "zip_code": "59047",
+    "placeMasterId": "P02500000FsoICy1FsJgdGMvEKNsmEsCSnhCSOBV",
+    "placeName": "livingston",
+    "state": "NJ"
+  },
+  {
+    "city": "roundup",
+    "zip_code": "59072",
+    "placeMasterId": "P02500000FsoFqHuPooLMupK6Pcl9bIKmdEPJ5Qa",
+    "placeName": "roundup",
+    "state": "MT"
+  },
+  {
+    "city": "billings",
+    "zip_code": "59106",
+    "placeMasterId": "P02500000FsoFoibABRzjMDdBZgxYZuJz7SrSIwV",
+    "placeName": "billings",
+    "state": "MT"
+  },
+  {
+    "city": "great falls",
+    "zip_code": "59404",
+    "placeMasterId": "P02500000FsoFpQpYCQsenDr3akge8M8h0VjVnGM",
+    "placeName": "great falls",
+    "state": "MT"
+  },
+  {
+    "city": "black eagle",
+    "zip_code": "59414",
+    "placeMasterId": "P02500000FsoFoibABRzjMDdBZgxYZuOvG6OGIPI",
+    "placeName": "black eagle",
+    "state": "MT"
+  },
+  {
+    "city": "highwood",
+    "zip_code": "59450",
+    "placeMasterId": "P02500000FsoF4LVz9cPW2z5YSmgjShUuLkaASw0",
+    "placeName": "highwood",
+    "state": "IL"
+  },
+  {
+    "city": "sunburst",
+    "zip_code": "59482",
+    "placeMasterId": "P02500000FsoFqQktQCv9bQZHDR6ZVmm2y6bRUF3",
+    "placeName": "sunburst",
+    "state": "MT"
+  }
+]
