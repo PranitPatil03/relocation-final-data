@@ -1,0 +1,380 @@
+[
+  {
+    "city": "warrensburg",
+    "zip_code": "64093",
+    "placeMasterId": "P02500000FsoFoI3jNGGNIPtfAFvIqR9uDUzW7oF",
+    "placeName": "warrensburg",
+    "state": "MO"
+  },
+  {
+    "city": "kansas city",
+    "zip_code": "64164",
+    "placeMasterId": "P02500000FsoFlR8BJKifYP0B610wcdmJLAheztV",
+    "placeName": "kansas city",
+    "state": "MO"
+  },
+  {
+    "city": "kansas city",
+    "zip_code": "64165",
+    "placeMasterId": "P02500000FsoFlR8BJKifYP0B610wcdmJLAheztV",
+    "placeName": "kansas city",
+    "state": "MO"
+  },
+  {
+    "city": "allendale",
+    "zip_code": "64420",
+    "placeMasterId": "P02500000FsoHgrZpA7owfCr1Yg9kEecTRWqPQP4",
+    "placeName": "allendale charter township",
+    "state": "MI"
+  },
+  {
+    "city": "westboro",
+    "zip_code": "64498",
+    "placeMasterId": "P02500000FsoHBTMmSuqBV30go29nmssmyYCU3Xw",
+    "placeName": "westborough",
+    "state": "MA"
+  },
+  {
+    "city": "meadville",
+    "zip_code": "64659",
+    "placeMasterId": "P02500000FsoGVx3pwYsfYEmz0jdBeKziJhNCHPd",
+    "placeName": "meadville",
+    "state": "PA"
+  },
+  {
+    "city": "purdin",
+    "zip_code": "64674",
+    "placeMasterId": "P02500000FsoFn9HuY5e5nbwGjl9xYW8qRMeOoXR",
+    "placeName": "purdin",
+    "state": "MO"
+  },
+  {
+    "city": "montrose",
+    "zip_code": "64770",
+    "placeMasterId": "P02500000FsoEo51YOQbziVBgsDJ5arApe3FjaKI",
+    "placeName": "montrose",
+    "state": "CO"
+  },
+  {
+    "city": "nevada",
+    "zip_code": "64772",
+    "placeMasterId": "P02500000FsoFmR3WX6lAMbiOihQs04PLAvY5pku",
+    "placeName": "nevada",
+    "state": "MO"
+  },
+  {
+    "city": "bunceton",
+    "zip_code": "65237",
+    "placeMasterId": "P02500000FsoFjIR1GO3tFOKZ2ppfxIEFOWTDm97",
+    "placeName": "bunceton",
+    "state": "MO"
+  },
+  {
+    "city": "excello",
+    "zip_code": "65247",
+    "placeMasterId": "P02500000FsoFkRCq5YgAkCHxTKb1FD6zfwtnajt",
+    "placeName": "excello",
+    "state": "MO"
+  },
+  {
+    "city": "windsor",
+    "zip_code": "65360",
+    "placeMasterId": "P02500000FsoEow6Q0o4hq6ejh5Nb3nRjSRH0Z2Y",
+    "placeName": "windsor",
+    "state": "CO"
+  },
+  {
+    "city": "viburnum",
+    "zip_code": "65566",
+    "placeMasterId": "P02500000FsoFo9DFlrgaboeUMRZsvwq3FPxdPA0",
+    "placeName": "viburnum",
+    "state": "MO"
+  },
+  {
+    "city": "flemington",
+    "zip_code": "65650",
+    "placeMasterId": "P02500000FsoFvzlVwfQmOr74Y6Zs2tC4ANjvoCx",
+    "placeName": "flemington",
+    "state": "NJ"
+  },
+  {
+    "city": "humansville",
+    "zip_code": "65674",
+    "placeMasterId": "P02500000FsoFlIHhhw8srnl0ICfWi9Oo0sQOLTg",
+    "placeName": "humansville",
+    "state": "MO"
+  },
+  {
+    "city": "marionville",
+    "zip_code": "65705",
+    "placeMasterId": "P02500000FsoFm0W5iv1oInysJGOcGbJP90FdNDc",
+    "placeName": "marionville",
+    "state": "MO"
+  },
+  {
+    "city": "norwood",
+    "zip_code": "65717",
+    "placeMasterId": "P02500000FsoHBBfpG7gc7qWLCPSxxuBcKl8kOOw",
+    "placeName": "norwood",
+    "state": "MA"
+  },
+  {
+    "city": "strafford",
+    "zip_code": "65757",
+    "placeMasterId": "P02500000FsoIC6wOFwDv8lSBVVoGlvxW7w7F1p1",
+    "placeName": "strafford",
+    "state": "NH"
+  },
+  {
+    "city": "walnut grove",
+    "zip_code": "65770",
+    "placeMasterId": "P02500000FsoH1cxpqZ105b7fN0Jxv5KmNHGXxZU",
+    "placeName": "walnut grove",
+    "state": "WA"
+  },
+  {
+    "city": "washburn",
+    "zip_code": "65772",
+    "placeMasterId": "P02500000FsoHgZsrxKfNI0Mfx3SuPfyAfGCzsVo",
+    "placeName": "washburn",
+    "state": "ME"
+  },
+  {
+    "city": "moody",
+    "zip_code": "65777",
+    "placeMasterId": "P02500000FsoEUfucMW7CGntzbmKFgEfJ0cMJNlV",
+    "placeName": "moody",
+    "state": "AL"
+  },
+  {
+    "city": "pomona",
+    "zip_code": "65789",
+    "placeMasterId": "P02500000FsoEjwThtvsDn55dZfHyAeOtTFhRIMY",
+    "placeName": "pomona",
+    "state": "CA"
+  },
+  {
+    "city": "frankfort",
+    "zip_code": "66427",
+    "placeMasterId": "P02500000FsoHJtIx3ItW2URyCwXSXmkF60gtN0I",
+    "placeName": "frankfort township (will county)",
+    "state": "IL"
+  },
+  {
+    "city": "holton",
+    "zip_code": "66436",
+    "placeMasterId": "P02500000FsoFKc0PuoD2NSzQ3M4NKXtKBJ5Gtcb",
+    "placeName": "holton",
+    "state": "KS"
+  },
+  {
+    "city": "chanute",
+    "zip_code": "66720",
+    "placeMasterId": "P02500000FsoFJc54h2AXZGHCQfeRx7GTm3K0zDV",
+    "placeName": "chanute",
+    "state": "KS"
+  },
+  {
+    "city": "galena",
+    "zip_code": "66739",
+    "placeMasterId": "P02500000FsoGlMTP5NDTl7DnmQwK3EzPwtScwEy",
+    "placeName": "galena park",
+    "state": "TX"
+  },
+  {
+    "city": "emporia",
+    "zip_code": "66801",
+    "placeMasterId": "P02500000FsoFKBSz6cTgJfFtdv27b4kCTdGXN7s",
+    "placeName": "emporia",
+    "state": "KS"
+  },
+  {
+    "city": "formoso",
+    "zip_code": "66942",
+    "placeMasterId": "P02500000FsoFKBSz6cTgJfFtdv27b4o4lJNqDwT",
+    "placeName": "formoso",
+    "state": "KS"
+  },
+  {
+    "city": "hardtner",
+    "zip_code": "67057",
+    "placeMasterId": "P02500000FsoFKT9wJPdFgrkFFXixQ3VfGn05kC8",
+    "placeName": "hardtner",
+    "state": "KS"
+  },
+  {
+    "city": "hesston",
+    "zip_code": "67062",
+    "placeMasterId": "P02500000FsoFKT9wJPdFgrkFFXixQ3Z0YOnTauJ",
+    "placeName": "hesston",
+    "state": "KS"
+  },
+  {
+    "city": "wichita",
+    "zip_code": "67209",
+    "placeMasterId": "P02500000FsoFMtY3Z9RbN4uCuLb3uNnBOyNlFLT",
+    "placeName": "wichita",
+    "state": "KS"
+  },
+  {
+    "city": "wichita",
+    "zip_code": "67218",
+    "placeMasterId": "P02500000FsoFMtY3Z9RbN4uCuLb3uNnBOyNlFLT",
+    "placeName": "wichita",
+    "state": "KS"
+  },
+  {
+    "city": "tyro",
+    "zip_code": "67364",
+    "placeMasterId": "P02500000FsoHnr3DiY6QKdqYvT5DsekkgMIpcdO",
+    "placeName": "tyrone township (livingston county)",
+    "state": "MI"
+  },
+  {
+    "city": "woodbine",
+    "zip_code": "67492",
+    "placeMasterId": "P02500000FsoFy8Sfzc5YhrmgbHl8iEmo3Y2BAva",
+    "placeName": "woodbine",
+    "state": "NJ"
+  },
+  {
+    "city": "otis",
+    "zip_code": "67565",
+    "placeMasterId": "P02500000FsoH0d2UcmyVHOPRkJu2XelDVrRzi5R",
+    "placeName": "otis orchards-east farms",
+    "state": "WA"
+  },
+  {
+    "city": "turon",
+    "zip_code": "67583",
+    "placeMasterId": "P02500000FsoFMbr6MMI1zsPrIiuE5P6ItosPYjm",
+    "placeName": "turon",
+    "state": "KS"
+  },
+  {
+    "city": "lenora",
+    "zip_code": "67645",
+    "placeMasterId": "P02500000FsoFL2XqizwORGiwSn6d40yPgjG36Vh",
+    "placeName": "lenora",
+    "state": "KS"
+  },
+  {
+    "city": "ogallah",
+    "zip_code": "67656",
+    "placeMasterId": "P02500000FsoHajBIE50B7NKX0lIm3acu6UEBo0D",
+    "placeName": "ogallah",
+    "state": "KS"
+  },
+  {
+    "city": "colby",
+    "zip_code": "67701",
+    "placeMasterId": "P02500000FsoFJkvYIQkKFrWNETzrrbfJRFO6Lf1",
+    "placeName": "colby",
+    "state": "KS"
+  },
+  {
+    "city": "gove",
+    "zip_code": "67736",
+    "placeMasterId": "P02500000FsoHYInAyLBpRAAZLxQfZGJ4GcgTbP4",
+    "placeName": "gove",
+    "state": "KS"
+  },
+  {
+    "city": "monument",
+    "zip_code": "67747",
+    "placeMasterId": "P02500000FsoEo51YOQbziVBgsDJ5arDQr94kOY0",
+    "placeName": "monument",
+    "state": "CO"
+  },
+  {
+    "city": "oakley",
+    "zip_code": "67748",
+    "placeMasterId": "P02500000FsoEjN5nULZ52g6wMPuIWgwDroEgisx",
+    "placeName": "oakley",
+    "state": "CA"
+  },
+  {
+    "city": "bucklin",
+    "zip_code": "67834",
+    "placeMasterId": "P02500000FsoHWjTvKyqBsYTeW1d4Xs9ctZ6nmx5",
+    "placeName": "bucklin township",
+    "state": "KS"
+  },
+  {
+    "city": "pierceville",
+    "zip_code": "67868",
+    "placeMasterId": "P02500000FsoHb0sFQs9kUZoscNzbsZJnt4bhKVT",
+    "placeName": "pierceville",
+    "state": "KS"
+  },
+  {
+    "city": "lyons",
+    "zip_code": "68038",
+    "placeMasterId": "P02500000FsoHLScCgfF9b68t2sL3ZB2muiItyAn",
+    "placeName": "lyons township",
+    "state": "IL"
+  },
+  {
+    "city": "la vista",
+    "zip_code": "68128",
+    "placeMasterId": "P02500000FsoFsZS3T9ZvuREtGcHqB8HOKaJZBzp",
+    "placeName": "la vista",
+    "state": "NE"
+  },
+  {
+    "city": "jansen",
+    "zip_code": "68377",
+    "placeMasterId": "P02500000FsoEneU7aEsdehSASmGprO6bf4guYYu",
+    "placeName": "jansen",
+    "state": "CO"
+  },
+  {
+    "city": "mccool junction",
+    "zip_code": "68401",
+    "placeMasterId": "P02500000FsoFsiIX4Y9ib2U44QdG5cfwGvzLSse",
+    "placeName": "mccool junction",
+    "state": "NE"
+  },
+  {
+    "city": "wilber",
+    "zip_code": "68465",
+    "placeMasterId": "P02500000FsoGJXQIT4fLlyUp75ZpNiVSERDhmUJ",
+    "placeName": "wilberforce",
+    "state": "OH"
+  },
+  {
+    "city": "lincoln",
+    "zip_code": "68502",
+    "placeMasterId": "P02500000FsoFsZS3T9ZvuREtGcHqB8DyQVvTvuI",
+    "placeName": "lincoln",
+    "state": "NE"
+  },
+  {
+    "city": "lincoln",
+    "zip_code": "68506",
+    "placeMasterId": "P02500000FsoFsZS3T9ZvuREtGcHqB8DyQVvTvuI",
+    "placeName": "lincoln",
+    "state": "NE"
+  },
+  {
+    "city": "surprise",
+    "zip_code": "68667",
+    "placeMasterId": "P02500000FsoEZxEHgBTFh1xRKp6iOMSORrjKMSL",
+    "placeName": "surprise",
+    "state": "AZ"
+  },
+  {
+    "city": "ewing",
+    "zip_code": "68735",
+    "placeMasterId": "P02500000FsoICgKIfWX3tAQsilBwPtQKsHOdK8m",
+    "placeName": "ewing",
+    "state": "NJ"
+  },
+  {
+    "city": "meadow grove",
+    "zip_code": "68752",
+    "placeMasterId": "P02500000FsoFsr90fwjVHdjEsEyg06zthxiyvWg",
+    "placeName": "meadow grove",
+    "state": "NE"
+  }
+]

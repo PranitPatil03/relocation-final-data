@@ -1,0 +1,380 @@
+[
+  {
+    "city": "montgomery",
+    "zip_code": "77316",
+    "placeMasterId": "P02500000FsoEUX48l7XPaCeonxyplkMDm5NRSjd",
+    "placeName": "montgomery",
+    "state": "AL"
+  },
+  {
+    "city": "riverside",
+    "zip_code": "77367",
+    "placeMasterId": "P02500000FsoEkN18i7bZqsp9z6KDu7ViUSFSn4j",
+    "placeName": "riverside",
+    "state": "CA"
+  },
+  {
+    "city": "conroe",
+    "zip_code": "77384",
+    "placeMasterId": "P02500000FsoGk4r6eo1PZi1EY7pYqpW1YjRM0qs",
+    "placeName": "conroe",
+    "state": "TX"
+  },
+  {
+    "city": "richmond",
+    "zip_code": "77406",
+    "placeMasterId": "P02500000FsoGxLZVkfhRTZmRGdxQaO3uqNoDmKN",
+    "placeName": "richmond",
+    "state": "VA"
+  },
+  {
+    "city": "louise",
+    "zip_code": "77455",
+    "placeMasterId": "P02500000FsoGne12jiS2kj8adQT0d4svwDwneI2",
+    "placeName": "louise",
+    "state": "TX"
+  },
+  {
+    "city": "matagorda",
+    "zip_code": "77457",
+    "placeMasterId": "P02500000FsoGnvhzwVbc7vcwF39qS3mw9EDc9hq",
+    "placeName": "matagorda",
+    "state": "TX"
+  },
+  {
+    "city": "palacios",
+    "zip_code": "77465",
+    "placeMasterId": "P02500000FsoGovdLAHe6w8L9rjZlpUJ0BcNBdEN",
+    "placeName": "palacios",
+    "state": "TX"
+  },
+  {
+    "city": "beaumont",
+    "zip_code": "77705",
+    "placeMasterId": "P02500000FsoGinEoEEpLOIofJoineQDrbqYiyGU",
+    "placeName": "beaumont",
+    "state": "TX"
+  },
+  {
+    "city": "hallettsville",
+    "zip_code": "77964",
+    "placeMasterId": "P02500000FsoGln0ptYwpouxKBryZmiFdTjjqmEs",
+    "placeName": "hallettsville",
+    "state": "TX"
+  },
+  {
+    "city": "shiner",
+    "zip_code": "77984",
+    "placeMasterId": "P02500000FsoGqdn4P2ZXBLHFVTimlMbqUyuYHvH",
+    "placeName": "shiner",
+    "state": "TX"
+  },
+  {
+    "city": "converse",
+    "zip_code": "78109",
+    "placeMasterId": "P02500000FsoGk4r6eo1PZi1EY7pYqpjbeYKlsBJ",
+    "placeName": "converse",
+    "state": "TX"
+  },
+  {
+    "city": "new braunfels",
+    "zip_code": "78130",
+    "placeMasterId": "P02500000FsoGoV5uM5uksKbdSIXW616QzJ2t1Z3",
+    "placeName": "new braunfels",
+    "state": "TX"
+  },
+  {
+    "city": "universal city",
+    "zip_code": "78148",
+    "placeMasterId": "P02500000FsoGrdiPcoc1zXzT8A8i8nBGzYOWncb",
+    "placeName": "universal city",
+    "state": "TX"
+  },
+  {
+    "city": "san antonio",
+    "zip_code": "78225",
+    "placeMasterId": "P02500000FsoGqM67CFPxo8mttr1wwNqfYQdpCPu",
+    "placeName": "san antonio",
+    "state": "TX"
+  },
+  {
+    "city": "aransas pass",
+    "zip_code": "78335",
+    "placeMasterId": "P02500000FsoGiVXr1Rfm16KJiC1xpRZf7YQnO71",
+    "placeName": "aransas pass",
+    "state": "TX"
+  },
+  {
+    "city": "fulton",
+    "zip_code": "78358",
+    "placeMasterId": "P02500000FsoFka3JgxFxQnX8H8wR9hZ83pQFIHw",
+    "placeName": "fulton",
+    "state": "MO"
+  },
+  {
+    "city": "sandia",
+    "zip_code": "78383",
+    "placeMasterId": "P02500000FsoG0H9q2YkL0sSIeSwPNaIudV195D5",
+    "placeName": "sandia heights",
+    "state": "NM"
+  },
+  {
+    "city": "rio grande city",
+    "zip_code": "78582",
+    "placeMasterId": "P02500000FsoGpmiCmf6p3joCgbeHIQbo9MWS6r0",
+    "placeName": "rio grande city",
+    "state": "TX"
+  },
+  {
+    "city": "dripping springs",
+    "zip_code": "78620",
+    "placeMasterId": "P02500000FsoGkeF14OKYK6zvlNDEUn9ynrYpGf8",
+    "placeName": "dripping springs",
+    "state": "TX"
+  },
+  {
+    "city": "kingsbury",
+    "zip_code": "78638",
+    "placeMasterId": "P02500000FsoIFOPN83Uywa5BzBksjCSLkD7vyRL",
+    "placeName": "kingsbury",
+    "state": "NY"
+  },
+  {
+    "city": "austin",
+    "zip_code": "78717",
+    "placeMasterId": "P02500000FsoGieOKcqFYhhZUW0NNjvrbzzBh3wR",
+    "placeName": "austin",
+    "state": "TX"
+  },
+  {
+    "city": "austin",
+    "zip_code": "78747",
+    "placeMasterId": "P02500000FsoGieOKcqFYhhZUW0NNjvrbzzBh3wR",
+    "placeName": "austin",
+    "state": "TX"
+  },
+  {
+    "city": "austin",
+    "zip_code": "78751",
+    "placeMasterId": "P02500000FsoGieOKcqFYhhZUW0NNjvrbzzBh3wR",
+    "placeName": "austin",
+    "state": "TX"
+  },
+  {
+    "city": "brackettville",
+    "zip_code": "78832",
+    "placeMasterId": "P02500000FsoGj4vlR1yulVJ0vRPdTP6jZSwMgfe",
+    "placeName": "brackettville",
+    "state": "TX"
+  },
+  {
+    "city": "catarina",
+    "zip_code": "78836",
+    "placeMasterId": "P02500000FsoGjeJfqcI3VuHi8gnJ7MdzfijgqTu",
+    "placeName": "catarina",
+    "state": "TX"
+  },
+  {
+    "city": "schulenburg",
+    "zip_code": "78956",
+    "placeMasterId": "P02500000FsoGqM67CFPxo8mttr1wwO6h52u2bdm",
+    "placeName": "schulenburg",
+    "state": "TX"
+  },
+  {
+    "city": "canadian",
+    "zip_code": "79014",
+    "placeMasterId": "P02500000FsoFXjsLPHJHajVRy3qp9c95nxaRnIC",
+    "placeName": "canadian lakes",
+    "state": "MI"
+  },
+  {
+    "city": "amarillo",
+    "zip_code": "79104",
+    "placeMasterId": "P02500000FsoGiMhNQ35zKV58uNgXuxIaAeFmU4D",
+    "placeName": "amarillo",
+    "state": "TX"
+  },
+  {
+    "city": "amarillo",
+    "zip_code": "79108",
+    "placeMasterId": "P02500000FsoGiMhNQ35zKV58uNgXuxIaAeFmU4D",
+    "placeName": "amarillo",
+    "state": "TX"
+  },
+  {
+    "city": "afton",
+    "zip_code": "79220",
+    "placeMasterId": "P02500000FsoFbABnsnA859NdFY8r1N5ocAaBaSf",
+    "placeName": "afton",
+    "state": "MN"
+  },
+  {
+    "city": "dougherty",
+    "zip_code": "79231",
+    "placeMasterId": "P02500000FsoGKp2atdrPxNhOLOgaa83Ho99Rbm3",
+    "placeName": "dougherty",
+    "state": "OK"
+  },
+  {
+    "city": "mcadoo",
+    "zip_code": "79243",
+    "placeMasterId": "P02500000FsoGVfMsjlj6B2IdP6wLpM6rZteY1MM",
+    "placeName": "mcadoo",
+    "state": "PA"
+  },
+  {
+    "city": "clyde",
+    "zip_code": "79510",
+    "placeMasterId": "P02500000FsoGDpZCLDZwHwhqybl6w7lqvYveu5D",
+    "placeName": "clyde",
+    "state": "OH"
+  },
+  {
+    "city": "denver",
+    "zip_code": "80221",
+    "placeMasterId": "P02500000FsoEmwFjZFziDhEIRiXkIwGQWtD2cc9",
+    "placeName": "denver",
+    "state": "CO"
+  },
+  {
+    "city": "denver",
+    "zip_code": "80228",
+    "placeMasterId": "P02500000FsoEmwFjZFziDhEIRiXkIwGQWtD2cc9",
+    "placeName": "denver",
+    "state": "CO"
+  },
+  {
+    "city": "denver",
+    "zip_code": "80232",
+    "placeMasterId": "P02500000FsoEmwFjZFziDhEIRiXkIwGQWtD2cc9",
+    "placeName": "denver",
+    "state": "CO"
+  },
+  {
+    "city": "denver",
+    "zip_code": "80249",
+    "placeMasterId": "P02500000FsoEmwFjZFziDhEIRiXkIwGQWtD2cc9",
+    "placeName": "denver",
+    "state": "CO"
+  },
+  {
+    "city": "hot sulphur springs",
+    "zip_code": "80451",
+    "placeMasterId": "P02500000FsoEnVddyqIqy6CzexvPwtkprkKogrq",
+    "placeName": "hot sulphur springs",
+    "state": "CO"
+  },
+  {
+    "city": "fort collins",
+    "zip_code": "80528",
+    "placeMasterId": "P02500000FsoEnDwgm39Hatie3LEa7uykf00K7tg",
+    "placeName": "fort collins",
+    "state": "CO"
+  },
+  {
+    "city": "ault",
+    "zip_code": "80610",
+    "placeMasterId": "P02500000FsoEmeYmMSq8qUjwq5quTxS8lZmMiyD",
+    "placeName": "ault",
+    "state": "CO"
+  },
+  {
+    "city": "carr",
+    "zip_code": "80612",
+    "placeMasterId": "P02500000FsoGjeJfqcI3VuHi8gnJ7MXGWnfbcgm",
+    "placeName": "carrollton",
+    "state": "TX"
+  },
+  {
+    "city": "brush",
+    "zip_code": "80723",
+    "placeMasterId": "P02500000FsoGjDmF2QYhS6YBjFl3NtW1WIsLaC0",
+    "placeName": "brushy creek",
+    "state": "TX"
+  },
+  {
+    "city": "arboles",
+    "zip_code": "81121",
+    "placeMasterId": "P02500000FsoEmViIl4GM9tUm2HVUZT7WzAxxcY8",
+    "placeName": "arboles",
+    "state": "CO"
+  },
+  {
+    "city": "almont",
+    "zip_code": "81210",
+    "placeMasterId": "P02500000FsoHgrZpA7owfCr1Yg9kEeernEgr663",
+    "placeName": "almont township",
+    "state": "MI"
+  },
+  {
+    "city": "cotopaxi",
+    "zip_code": "81223",
+    "placeMasterId": "P02500000FsoEmwFjZFziDhEIRiXkIwGhkVJo3qD",
+    "placeName": "cotopaxi",
+    "state": "CO"
+  },
+  {
+    "city": "dove creek",
+    "zip_code": "81324",
+    "placeMasterId": "P02500000FsoEn56DAeZUuITTFWtADQbK0ZIGE6U",
+    "placeName": "dove creek",
+    "state": "CO"
+  },
+  {
+    "city": "aspen",
+    "zip_code": "81612",
+    "placeMasterId": "P02500000FsoFTJdXhzPwI6v33t8ruQYTieHI0eP",
+    "placeName": "aspen hill",
+    "state": "MD"
+  },
+  {
+    "city": "rifle",
+    "zip_code": "81650",
+    "placeMasterId": "P02500000FsoEoMiVbDlZ5hg2TpzvPpwgU80hOBS",
+    "placeName": "rifle",
+    "state": "CO"
+  },
+  {
+    "city": "cheyenne",
+    "zip_code": "82009",
+    "placeMasterId": "P02500000FsoH8lHi0NsGRdMNXbarTZtuWJMmZrv",
+    "placeName": "cheyenne",
+    "state": "WY"
+  },
+  {
+    "city": "laramie",
+    "zip_code": "82073",
+    "placeMasterId": "P02500000FsoH9KfcPyBPC2L4kqyX7XLdIGzsOAL",
+    "placeName": "laramie",
+    "state": "WY"
+  },
+  {
+    "city": "wheatland",
+    "zip_code": "82201",
+    "placeMasterId": "P02500000FsoHPbA3B9yvWWEwLQMAzNikcCQMxFq",
+    "placeName": "wheatland township (will county)",
+    "state": "IL"
+  },
+  {
+    "city": "sinclair",
+    "zip_code": "82334",
+    "placeMasterId": "P02500000FsoG4z5awdnFghX3AGLCRkhSkHCP8PI",
+    "placeName": "sinclairville",
+    "state": "NY"
+  },
+  {
+    "city": "ten sleep",
+    "zip_code": "82442",
+    "placeMasterId": "P02500000FsoH9lD3E9ulFq4bAI0mr0VRWN9pTfQ",
+    "placeName": "ten sleep",
+    "state": "WY"
+  },
+  {
+    "city": "hudson",
+    "zip_code": "82515",
+    "placeMasterId": "P02500000FsoHBcDG4JPyBeFrbqVDhNDWzD9LuI5",
+    "placeName": "hudson",
+    "state": "NH"
+  }
+]
