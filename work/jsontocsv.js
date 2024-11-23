@@ -103,7 +103,7 @@ function convertJsonToCsvWithGroups(jsonFile, csvFile) {
 }
 
 // Specify the input JSON and output CSV file paths
-const inputJsonFile = "./updated_op_8.json"; // Replace with your JSON file
+const inputJsonFile = "./final/with_data.json"; // Replace with your JSON file
 const outputCsvFile = "./output.csv"; // Replace with your desired CSV file name
 
 // Call the function to convert JSON to CSV with grouped headers
