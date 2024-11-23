@@ -3,7 +3,8 @@ const cheerio = require("cheerio");
 const fs = require("fs");
 
 // Temporary file to store intermediate results
-const tempFile = "./temp/results_temp_2.json";
+const tempFile = "./temp/results_temp_10.json";
+
 
 // Function to fetch and parse data for a given city pair
 async function fetchCityData(source, destination) {
@@ -93,12 +94,12 @@ async function fetchCityData(source, destination) {
   }
 }
 
-// Main function
+// Main functiondata\data_source_1.json
 (async () => {
   try {
     // Read source and destination files
-    const sourceFile = "./finaldata/s/split_city_code_master_2.json"; // Replace with your actual source file
-    const destinationFile = "./finaldata/d/split_city_code_master_2.json"; 
+    const sourceFile = "./finaldata/s/split_city_code_master_10.json"; // Replace with your actual source file
+    const destinationFile = "./finaldata/d/split_city_code_master_10.json"; 
 
     const sourceData = JSON.parse(fs.readFileSync(sourceFile, "utf-8"));
     const destinationData = JSON.parse(fs.readFileSync(destinationFile, "utf-8"));
@@ -138,7 +139,7 @@ async function fetchCityData(source, destination) {
     }
 
     // Save final results and remove temp file
-    const outputFile = "./finalR/results_2.json";
+    const outputFile = "./finalR/results_10.json";
 
     fs.writeFileSync(outputFile, JSON.stringify(results, null, 2), "utf-8");
     console.log(`\nFinal results saved successfully to ${outputFile}`);

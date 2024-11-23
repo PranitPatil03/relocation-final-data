@@ -97,8 +97,8 @@ async function fetchCityData(source, destination) {
 (async () => {
   try {
     // Read source and destination files
-    const sourceFile = "./data/data_source_4.json"; // Replace with your actual source file
-    const destinationFile = "./data/data_destination_4.json"; 
+    const sourceFile = "./finaldata/s/split_city_code_master_4.json"; // Replace with your actual source file
+    const destinationFile = "./finaldata/d/split_city_code_master_4.json"; 
 
     const sourceData = JSON.parse(fs.readFileSync(sourceFile, "utf-8"));
     const destinationData = JSON.parse(fs.readFileSync(destinationFile, "utf-8"));
@@ -138,7 +138,7 @@ async function fetchCityData(source, destination) {
     }
 
     // Save final results and remove temp file
-    const outputFile = "./final/results_4.json";
+    const outputFile = "./finalR/results_4.json";
 
     fs.writeFileSync(outputFile, JSON.stringify(results, null, 2), "utf-8");
     console.log(`\nFinal results saved successfully to ${outputFile}`);

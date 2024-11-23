@@ -39,8 +39,8 @@ function transformData(inputFile, outputFile) {
 }
 
 // Specify input and output files
-const inputFile = "./last/results_8.json"; // Replace with your input JSON file
-const outputFile = "./a/trans_8.json"; // Output file name
+const inputFile = "./finalR/results_10.json"; // Replace with your input JSON file
+const outputFile = "./aaa/trans_10.json"; // Output file name
 
 // Call the function to transform the data
 transformData(inputFile, outputFile);
