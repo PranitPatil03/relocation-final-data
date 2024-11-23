@@ -16,7 +16,7 @@ function countItemsInJson(filePath) {
 }
 
 // Specify the file path
-const filePath = 'updated_op_8.json'; // Replace with your JSON file name
+const filePath = './bb/city_code_1.json'; // Replace with your JSON file name
 
 // Call the function
 countItemsInJson(filePath);
