@@ -26,9 +26,9 @@ function updateJsonFile(updatedFile, mainFile, outputFile) {
 }
 
 // Specify the file paths
-const updatedFile = "./updated_op_7.json"; // Input file to be updated
-const mainFile = "./a/trans_8.json"; // Main JSON file with data
-const outputFile = "./updated_op_8.json"; // Output file to save the result
+const updatedFile = "./lastFinal/updated_op_9.json"; // Input file to be updated
+const mainFile = "./aaa/trans_10.json"; // Main JSON file with data
+const outputFile = "./lastFinal/updated_op_10.json"; // Output file to save the result
 
 // Call the function to update the JSON
 updateJsonFile(updatedFile, mainFile, outputFile);
